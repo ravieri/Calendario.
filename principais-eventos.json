@@ -1,0 +1,99 @@
+{
+  "principaisEventos": [
+    {
+      "nome": "Roland Garros (French Open)",
+      "data": "25 de Maio a 08 de Junho de 2025",
+      "descricao": "Um dos quatro torneios Grand Slam de tênis, no saibro de Paris."
+    },
+    {
+      "nome": "Final da UEFA Champions League",
+      "data": "31 de Maio de 2025",
+      "descricao": "Os melhores clubes da Europa disputam o título mais cobiçado."
+    },
+    {
+      "nome": "Finais do NBB (Novo Basquete Brasil)",
+      "data": "Se estendendo para o início de junho",
+      "descricao": "Basquete - DESTAQUE BRASIL"
+    },
+    {
+      "nome": "Finais da NBA",
+      "data": "A partir de 5 de junho, estendendo-se por junho (último jogo possível em 22 de junho)",
+      "descricao": "Basquete - DESTAQUE GLOBAL"
+    },
+    {
+      "nome": "24 Horas de Le Mans",
+      "data": "11 a 15 de junho",
+      "descricao": "Automobilismo - DESTAQUE GLOBAL"
+    },
+    {
+      "nome": "Fórmula 1 - GP do Canadá",
+      "data": "15 de junho",
+      "descricao": "Automobilismo - Temporada 2025"
+    },
+    {
+      "nome": "Copa do Mundo de Clubes da FIFA (Novo Formato) - 2025",
+      "data": "15 de junho a 13 de julho",
+      "descricao": "Futebol - DESTAQUE GLOBAL"
+    },
+    {
+      "nome": "Fórmula 1 - GP da Áustria",
+      "data": "29 de junho",
+      "descricao": "Automobilismo - Temporada 2025"
+    },
+    {
+      "nome": "Campeonato Brasileiro Série A - Junho",
+      "data": "Jogos importantes e clássicos ao longo de junho",
+      "descricao": "Futebol - DESTAQUE BRASIL"
+    },
+    {
+      "nome": "Wimbledon - Finais",
+      "data": "Início em 30 de junho, com finais até 13 de julho",
+      "descricao": "Tênis - DESTAQUE GLOBAL"
+    },
+    {
+      "nome": "Fórmula 1 - GP da Grã-Bretanha",
+      "data": "6 de julho",
+      "descricao": "Automobilismo - Temporada 2025"
+    },
+    {
+      "nome": "Campeonato Brasileiro de Tênis (Brasileirão)",
+      "data": "14 a 30 de julho",
+      "descricao": "Tênis - DESTAQUE BRASIL"
+    },
+    {
+      "nome": "Fórmula 1 - GP da Bélgica",
+      "data": "27 de julho",
+      "descricao": "Automobilismo - Temporada 2025"
+    },
+    {
+      "nome": "Campeonato Brasileiro Série A - Julho",
+      "data": "Jogos importantes e clássicos ao longo de julho",
+      "descricao": "Futebol - DESTAQUE BRASIL"
+    },
+    {
+      "nome": "Fórmula 1 - GP da Hungria",
+      "data": "3 de agosto",
+      "descricao": "Automobilismo - Temporada 2025"
+    },
+    {
+      "nome": "Fórmula 1 - GP da Holanda",
+      "data": "25 de agosto",
+      "descricao": "Automobilismo - Temporada 2025 (Segunda-feira, data incomum, verificar se é o fim de semana do GP)"
+    },
+    {
+      "nome": "US Open - Tênis (Início)",
+      "data": "A partir de 25 de agosto",
+      "descricao": "Tênis - DESTAQUE GLOBAL"
+    },
+    {
+      "nome": "Campeonato Brasileiro Série A - Agosto",
+      "data": "Jogos importantes e clássicos ao longo de agosto",
+      "descricao": "Futebol - DESTAQUE BRASIL"
+    },
+    {
+      "nome": "Copa do Mundo FIFA 2026",
+      "data": "11 de Junho a 19 de Julho de 2026",
+      "descricao": "A maior festa do futebol mundial, sediada nos EUA, Canadá e México."
+    }
+  ]
+}

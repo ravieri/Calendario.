@@ -1,0 +1,138 @@
+{
+    "carouselData": [
+        {
+            "imgSrc": "basquete img/timberwolvesxthunder.webp",
+            "alt": "Jogo de Basquete",
+            "categoryTag": "NBA Playoffs",
+            "title": "Timberwolves vs. Thunder",
+            "description": "Playoffs da NBA em alta! Timberwolves e Thunder travam um duelo decisivo nas finais do Oeste!"
+        },
+        {
+            "imgSrc": "basquete img/pacersxknicks.webp",
+            "alt": "Jogo de Basquete",
+            "categoryTag": "NBA Playoffs",
+            "title": "Pacers vs. Knicks",
+            "description": "Playoffs da NBA em foco! Pacers e Knicks prometem uma batalha eletrizante nas finais do Leste!"
+        },
+        {
+            "imgSrc": "basquete img/thunderxtimberwolves.webp",
+            "alt": "Jogo de Basquete",
+            "categoryTag": "NBA Playoffs",
+            "title": "Thunder vs. Timberwolves",
+            "description": "Playoffs da NBA aquecem! Thunder e Timberwolves disputam um confronto intenso nas finais do Oeste!"
+        },
+        {
+            "imgSrc": "basquete img/knickspacers.webp",
+            "alt": "Jogo de Basquete",
+            "categoryTag": "NBA Playoffs",
+            "title": "Knicks vs. Pacers",
+            "description": "Playoffs da NBA em destaque! Knicks e Pacers entregam um jogo épico nas finais do Leste!"
+        },
+        {
+            "imgSrc": "basquete img/timberwolvesxthunder1.webp",
+            "alt": "Jogo de Basquete",
+            "categoryTag": "NBA Playoffs",
+            "title": "Timberwolves vs. Thunder",
+            "description": "Playoffs da NBA pegam fogo! Timberwolves e Thunder continuam a rivalidade nas finais do Oeste!"
+        }
+    ],
+    "matchesData": {
+        "Junho": [
+            {
+                "weekLabel": "Semana 1 (01/06 - 07/06)",
+                "matches": [
+                    {
+                        "championship": "NBA, Mata-mata, Western conference finals",
+                        "teamA": { "name": "Minnesota Timberwolves", "emblem": "Emblems/Basquete/Minnesota_Timberwolves.png" },
+                        "teamB": { "name": "Oklahoma City Thunder", "emblem": "Emblems/Basquete/Oklahoma_City_Thunder.png" },
+                        "score": "X",
+                        "date": "01/06/2025 • 21:30",
+                        "description": "Timberwolves e Thunder travam um duelo decisivo nas finais da conferência Oeste!",
+                        "comments": [
+                            "Timberwolves precisam melhorar a defesa no perímetro, o Thunder tá explorando isso!",
+                            "Shai Gilgeous-Alexander tá impossível, Thunder pode levar essa se mantiver o ritmo.",
+                            "Edwards precisa chamar o jogo, Timberwolves dependem dele pra virar.",
+                            "Que série incrível, tá muito equilibrada!"
+                        ]
+                    },
+                    {
+                        "championship": "NBA, Mata-mata, Eastern conference finals",
+                        "teamA": { "name": "Indiana Pacers", "emblem": "Emblems/Basquete/Indiana_Pacers.png" },
+                        "teamB": { "name": "New York Knicks", "emblem": "Emblems/Basquete/New_York_Knicks.png" },
+                        "score": "X",
+                        "date": "02/06/2025 • 21:00",
+                        "description": "Pacers e Knicks continuam a disputa acirrada nas finais da conferência Leste!",
+                        "comments": [
+                            "Haliburton tá jogando muito, Pacers têm chance se ele mantiver o nível!",
+                            "Knicks tão dominando no garrafão, Randle tá imparável.",
+                            "A defesa dos Pacers precisa fechar mais, Knicks tão acertando tudo de fora.",
+                            "Esse jogo vai ser decidido nos minutos finais, certeza!"
+                        ]
+                    },
+                    {
+                        "championship": "NBA, Mata-mata, Western conference finals",
+                        "teamA": { "name": "Oklahoma City Thunder", "emblem": "Emblems/Basquete/Oklahoma_City_Thunder.png" },
+                        "teamB": { "name": "Minnesota Timberwolves", "emblem": "Emblems/Basquete/Minnesota_Timberwolves.png" },
+                        "score": "X",
+                        "date": "03/06/2025 • 21:30",
+                        "description": "Thunder e Timberwolves seguem a batalha intensa nas finais da conferência Oeste!",
+                        "comments": [
+                            "Thunder precisa ajustar a rotação, Timberwolves tão explorando os reservas.",
+                            "Gobert tá dominando a defesa, Timberwolves tão sólidos no garrafão!",
+                            "Acho que o Thunder leva essa se acertar os arremessos de 3 pontos.",
+                            "Que duelo, não dá pra piscar!"
+                        ]
+                    }
+                ]
+            },
+            {
+                "weekLabel": "Semana 2 (08/06 - 14/06)",
+                "matches": []
+            },
+            {
+                "weekLabel": "Semana 3 (15/06 - 21/06)",
+                "matches": []
+            },
+            {
+                "weekLabel": "Semana 4 (22/06 - 28/06)",
+                "matches": []
+            }
+        ],
+        "Julho": [
+            {
+                "weekLabel": "Semana 1 (01/07 - 07/07)",
+                "matches": []
+            },
+            {
+                "weekLabel": "Semana 2 (08/07 - 14/07)",
+                "matches": []
+            },
+            {
+                "weekLabel": "Semana 3 (15/07 - 21/07)",
+                "matches": []
+            },
+            {
+                "weekLabel": "Semana 4 (22/07 - 28/07)",
+                "matches": []
+            }
+        ],
+        "Agosto": [
+            {
+                "weekLabel": "Semana 1 (01/08 - 07/08)",
+                "matches": []
+            },
+            {
+                "weekLabel": "Semana 2 (08/08 - 14/08)",
+                "matches": []
+            },
+            {
+                "weekLabel": "Semana 3 (15/08 - 21/08)",
+                "matches": []
+            },
+            {
+                "weekLabel": "Semana 4 (22/08 - 28/08)",
+                "matches": []
+            }
+        ]
+    }
+}

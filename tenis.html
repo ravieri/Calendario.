@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jornal H2</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="calendar.css">
+</head>
+
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/683607d0c512ec190d255e54/1is9gt1rb';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<body class="fade-in">
+    <header class="top-bar">
+        <img src="logo\h2club.svg.svg" alt="Logo" class="logo-img">
+        <nav class="nav-menu">
+            <a href="#" id="calendar-button">Calendário de Eventos</a>
+        </nav>
+    </header>
+
+    <div class="sports-buttons">
+        <a href="index.html" class="button ">Futebol</a>
+        <a href="basquete.html" class="button">Basquete</a>
+        <a href="tenis.html" class="button selected">Tênis</a>
+        <a href="ufc.html" class="button">UFC</a>
+        <a href="promocoes.html" class="button">Promoções</a>
+    </div>
+
+    <section class="carousel">
+        <div class="carousel-container" id="carousel-container"></div>
+        <button class="carousel-prev">
+            <span class="particle-icon">
+                <span class="particle"></span>
+                <span class="particle"></span>
+                <span class="particle"></span>
+            </span>
+        </button>
+        <button class="carousel-next">
+            <span class="particle-icon">
+                <span class="particle"></span>
+                <span class="particle"></span>
+                <span class="particle"></span>
+            </span>
+        </button>
+        <div class="carousel-indicators" id="carousel-indicators"></div>
+    </section>
+
+    <section class="matches-section">
+        <h2>PARTIDAS DA SEMANA</h2>
+        <div class="matches-nav">
+            <select id="month-selector">
+                <option value="Junho">Junho</option>
+                <option value="Julho">Julho</option>
+                <option value="Agosto">Agosto</option>
+            </select>
+            <select id="week-selector">
+                </select>
+            <select id="championship-selector">
+                <option value="all">Todos os Campeonatos</option>
+                </select>
+            <input type="text" id="match-search-input" placeholder="Pesquisar time, campeonato...">
+            
+        </div>
+        <div class="matches-container" id="matches-container">
+            </div>
+    </section>
+
+    <div id="calendar-modal" class="calendar-modal">
+    <div class="calendar-content">
+        <span class="close-button">&times;</span>
+        <div class="calendar-header">
+            <button id="prev-month">&#9664;</button>
+            <h2 id="month-year"></h2>
+            <button id="next-month">&#9654;</button>
+        </div>
+
+        <div class="calendar-search-container">
+            <input type="text" id="event-search-input" placeholder="Pesquisar evento...">
+            <div id="search-results-container">
+                </div>
+        </div>
+        <div class="calendar-grid-header">
+            <div>D</div><div>S</div><div>T</div><div>Q</div><div>Q</div><div>S</div><div>S</div>
+        </div>
+        <div class="calendar-grid" id="calendar-grid"></div>
+        <div id="event-details">
+             <p>Selecione uma data com evento para ver os detalhes.</p>
+        </div>
+    </div>
+</div>
+    
+    <script src="aplicativo.js"></script>
+    <script src="carousel.js"></script>
+    <script src="matches.js"></script>
+    <script src="promocoes.js"></script>
+    <script src="calendar.js"></script>
+</body>
+</html>

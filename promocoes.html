@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Promoções - Jornal H2</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="calendar.css">
+    <style>
+        /* Styles specific to promocoes.html */
+        .promotions-page-section {
+            max-width: 1200px;
+            margin: 80px auto 40px; 
+            padding: 20px;
+            background: linear-gradient(to bottom, #3A005A, #B200B2);
+            border-radius: 15px;
+            box-shadow: 0 0 20px rgba(255, 255, 255, 0.2);
+            color: #ffffff;
+        }
+
+        .promotions-page-section h2 {
+            font-size: 24px;
+            margin-bottom: 20px;
+            text-align: center;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+        }
+
+        .promo-filters {
+            display: flex;
+            justify-content: space-between; 
+            align-items: center;
+            margin-bottom: 20px;
+            gap: 15px; 
+            flex-wrap: wrap; 
+        }
+
+        .promo-filters .market-tabs {
+            display: flex; 
+            gap: 10px; 
+            flex-wrap: wrap; 
+        }
+
+        .promo-filters .market-tabs button,
+        .promo-filters .date-filter select,
+        .promo-filters .search-filter input {
+            padding: 10px 15px;
+            background: linear-gradient(to bottom, #4A0072, #C200C2);
+            color: #ffffff;
+            border: none;
+            border-radius: 15px;
+            font-size: 14px;
+            font-weight: bold;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+        .promo-filters .market-tabs button.active,
+        .promo-filters .market-tabs button:hover,
+        .promo-filters .date-filter select:hover, 
+        .promo-filters .search-filter input:hover { 
+            background: linear-gradient(to bottom, #5A0082, #D200D2);
+            box-shadow: 0 0 12px rgba(255, 255, 255, 0.3);
+        }
+ 
+        .promo-filters .date-filter select,
+        .promo-filters .search-filter input {
+            min-width: 180px; 
+            flex-grow: 1; 
+        }
+         .promo-filters .search-filter input {
+            min-width: 250px; 
+        }
+
+        .promo-filters .search-filter input::placeholder {
+            color: #e0e0e0;
+        }
+
+        .promo-filters .date-filter select option {
+            background-color: #2A004D; 
+            color: #ffffff; 
+        }
+
+        .promotions-display-area {
+            margin-top: 20px;
+        }
+
+        .promo-item-card {
+            background: rgba(74, 0, 114, 0.5); 
+            padding: 20px; 
+            border-radius: 10px;
+            margin-bottom: 15px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+            /* ADDED: Transition for smooth zoom and shadow effect */
+            transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+        }
+
+        /* ADDED: Hover effect for zoom */
+        .promo-item-card:hover {
+            transform: scale(1.03); /* Adjust 1.03 to your desired zoom level (e.g., 1.05 for more) */
+            box-shadow: 0 6px 20px rgba(0,0,0,0.35); /* Optional: enhanced shadow on hover */
+            /* z-index: 10; /* Optional: if overlapping issues occur with adjacent cards during zoom */
+        }
+
+
+        .promo-item-card h3 {
+            font-size: 20px; 
+            font-weight: bold;
+            color: #ffffff;     
+            margin-bottom: 15px; 
+        }
+
+        .promo-item-card p {
+            margin: 8px 0; 
+            font-size: 14px;
+            line-height: 1.6; 
+            color: #ffffff; 
+            overflow-wrap: break-word; 
+            word-wrap: break-word; 
+        }
+
+        .promo-item-card p strong {
+            color: #E0A0E0; 
+            font-weight: bold; 
+            margin-right: 5px; 
+        }
+
+        @media (max-width: 768px) {
+            .promotions-page-section {
+                margin-top: 20px; 
+            }
+
+            .promo-filters {
+                flex-direction: column; 
+                align-items: stretch; 
+            }
+            .promo-filters .market-tabs,
+            .promo-filters .date-filter,
+            .promo-filters .search-filter {
+                width: 100%;
+                margin-bottom: 10px;
+            }
+            .promo-filters .market-tabs button { 
+                 flex-grow: 1;
+            }
+            .promo-filters .date-filter select,
+            .promo-filters .search-filter input {
+                width: 100%; 
+                box-sizing: border-box;
+            }
+        }
+    </style>
+</head>
+
+
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/683607d0c512ec190d255e54/1is9gt1rb';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+
+
+
+<body class="fade-in">
+    <header class="top-bar">
+        <img src="logo\h2club.svg.svg" alt="Logo" class="logo-img">
+        <nav class="nav-menu">
+            <a href="#" id="calendar-button">Calendário de Eventos</a>
+        </nav>
+    </header>
+
+    <div class="sports-buttons">
+        <a href="index.html" class="button">Futebol</a>
+        <a href="basquete.html" class="button">Basquete</a>
+        <a href="tenis.html" class="button">Tênis</a>
+        <a href="ufc.html" class="button">UFC</a>
+        <a href="promocoes.html" class="button selected">Promoções</a>
+    </div>
+
+    <section class="promotions-page-section">
+        <h2>Nossas Promoções</h2>
+
+        <div class="promo-filters">
+            <div class="market-tabs" id="market-tabs">
+                <button data-market="all" class="active">Mostrar Todos</button>
+                <button data-market="100X">100X</button>
+                <button data-market="M12">M12</button>
+                <button data-market="SuperOdds">Super Odds</button>
+            </div>
+            <div class="date-filter">
+                <select id="promo-date-selector">
+                    <option value="all">Todas as Datas</option>
+                    </select>
+            </div>
+            <div class="search-filter">
+                <input type="text" id="promo-search-input" placeholder="Pesquisar nas promoções...">
+            </div>
+        </div>
+
+        <div class="promotions-display-area" id="promotions-display-area">
+            <p>Carregando promoções...</p>
+        </div>
+    </section>
+
+    <div id="calendar-modal" class="calendar-modal">
+        <div class="calendar-content">
+            <span class="close-button">&times;</span>
+            <div class="calendar-header">
+                <button id="prev-month">&#9664;</button>
+                <h2 id="month-year"></h2>
+                <button id="next-month">&#9654;</button>
+            </div>
+            <div class="calendar-search-container">
+                <input type="text" id="event-search-input" placeholder="Pesquisar evento...">
+                <div id="search-results-container"></div>
+            </div>
+            <div class="calendar-grid-header">
+                <div>D</div><div>S</div><div>T</div><div>Q</div><div>Q</div><div>S</div><div>S</div>
+            </div>
+            <div class="calendar-grid" id="calendar-grid"></div>
+            <div id="event-details">
+                 <p>Selecione uma data com evento para ver os detalhes.</p>
+            </div>
+        </div>
+    </div>
+    
+    <script src="aplicativo.js"></script>
+    <script src="promocoes.js"></script> 
+    <script src="calendar.js"></script>
+</body>
+</html>

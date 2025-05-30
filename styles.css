@@ -1,0 +1,1015 @@
+/* Reset default styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #3A005A; /* Roxo médio escuro como fundo principal */
+    color: #ffffff; /* Texto branco como padrão */
+    transition: opacity 0.5s ease-in-out; /* Animação suave de 0.5s */
+}
+
+/* Estado de saída (fade out) */
+body.fade-out {
+    opacity: 0;
+}
+
+/* Estado inicial de entrada (fade in) */
+body.fade-in {
+    opacity: 1;
+}
+
+/* Top Bar Styles */
+.top-bar {
+    background: linear-gradient(to right, #2A004D, #A000A0); /* Gradiente roxo forte para header */
+    color: #ffffff;
+    display: flex;
+    justify-content: space-between; /* Coloca o logo à esquerda e o nav-menu à direita */
+    align-items: center;
+    padding: 10px 20px;
+    position: relative; /* Essencial para o posicionamento absoluto do item central */
+    width: 100%;
+    z-index: 100;
+}
+
+.logo-img {
+    height: 40px;
+    width: auto;
+}
+
+/* Item Centralizado na Top Bar */
+.top-bar-center-item {
+    position: absolute; /* Tira do fluxo normal para centralização precisa */
+    left: 50%; /* Posiciona o início do elemento no meio da top-bar */
+    transform: translateX(-50%); /* Puxa o elemento de volta pela metade de sua própria largura */
+    display: flex;
+    align-items: center;
+}
+
+.top-bar-center-item a {
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 16px;
+    /* As classes .main-events-notification e #main-events-trigger já cuidam do display flex e ícone */
+}
+
+/* Estilos para o gatilho dos Principais Eventos na Top Bar (link em si) */
+.main-events-notification {
+    display: flex; /* Para alinhar ícone e texto */
+    align-items: center; /* Alinhamento vertical */
+    position: relative; /* Para o posicionamento do ícone pulsante se necessário */
+    color: #ffffff; /* Garante cor do texto, caso não herdado */
+    text-decoration: none; /* Garante sem sublinhado, caso não herdado */
+    font-size: 16px; /* Garante tamanho da fonte, caso não herdado */
+}
+
+.main-events-notification .notification-icon {
+    display: inline-block; /* Permite transformações */
+    margin-right: 8px;
+    font-size: 1.2em; /* Tamanho do ícone de sino */
+    color: #FFD700; /* Cor dourada para destaque */
+}
+
+.main-events-notification.pulsing .notification-icon {
+    animation: pulse-icon 1.5s infinite ease-in-out;
+}
+
+@keyframes pulse-icon {
+    0% {
+        transform: scale(1);
+        opacity: 1;
+    }
+    50% {
+        transform: scale(1.3);
+        opacity: 0.7;
+    }
+    100% {
+        transform: scale(1);
+        opacity: 1;
+    }
+}
+
+
+/* Navigation Menu (Top Bar - Itens à Direita) */
+.nav-menu { /* Container para itens à direita, como o Calendário */
+    list-style: none;
+    display: flex;
+    gap: 20px; /* Espaçamento se houver mais de um item */
+}
+
+.nav-menu a { /* Estilo para links dentro do .nav-menu (ex: Calendário) */
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+.nav-menu a:hover {
+    color: #C0C0FF; /* Roxo-azulado claro para hover */
+}
+
+/* .nav-menu a.selected { /* Não usado mais para o item centralizado, mas pode ser para outros */
+/* color: #FF66FF; /* Magenta vibrante para o item selecionado */
+/* } */
+
+/* Estilo para o botão do Calendário (específico) */
+.nav-menu #calendar-button {
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 16px;
+    padding: 5px 10px;
+    border: 2.5px solid #E0A0E0;
+    border-radius: 15px;
+    transition: all 0.3s ease;
+}
+
+.nav-menu #calendar-button:hover {
+    background-color: #E0A0E0;
+    color: #2A004D;
+}
+
+
+/* Sports Buttons Section */
+.sports-buttons {
+    position: absolute;
+    top: 60px; /* Ajustado para evitar sobreposição com a top-bar */
+    left: 50%;
+    transform: translateX(-50%);
+    width: auto;
+    display: flex;
+    justify-content: center;
+    padding: 10px 0;
+    gap: 20px;
+    z-index: 99;
+}
+
+.sports-buttons .button {
+    background: #3A005A; /* Roxo médio escuro */
+    border: 2px solid #E0A0E0; /* Borda roxa clara harmonizada */
+    border-radius: 30px;
+    padding: 8px 16px;
+    font-size: 14px;
+    text-decoration: none;
+    text-transform: capitalize;
+    color: #ffffff;
+    display: inline-block;
+    transition: all 0.3s ease;
+}
+
+.sports-buttons .button:hover {
+    background: #E0A0E0; /* Roxo claro harmonizado */
+    border-color: #C080C0; /* Tom mais escuro da borda */
+    color: #2A004D; /* Roxo escuro para texto ao hover */
+}
+
+.sports-buttons .selected {
+    background: #E0A0E0; /* Roxo claro harmonizado */
+    color: #2A004D;
+    border: none;
+}
+
+.sports-buttons .selected:hover {
+    background: #C080C0; /* Tom mais escuro ao passar o mouse */
+    border: none;
+}
+
+/* Carousel Styles */
+.carousel {
+    position: relative;
+    width: 100%;
+    max-width: 1200px;
+    margin: 80px auto 20px; /* Ajustado para evitar sobreposição com sports-buttons */
+    overflow: hidden;
+    background: linear-gradient(to bottom, #4A0080, #C400C4); /* Gradiente roxo vibrante com magenta */
+    box-shadow: 0 4px 20px rgba(200, 0, 200, 0.7); /* Sombreamento magenta vibrante */
+    border-radius: 10px;
+}
+
+.carousel-container {
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+    height: auto;
+}
+
+.carousel-item {
+    min-width: 100%;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: auto;
+}
+
+.carousel-image {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    object-position: center;
+    filter: brightness(1) saturate(1.2); /* Remove o escurecimento e realça as cores */
+    position: relative;
+}
+
+.carousel-item::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to top, rgba(200, 0, 200, 0.3), transparent); /* Gradiente magenta claro para transparente */
+    pointer-events: none; /* Não interfere nos cliques */
+}
+
+.carousel-content {
+    position: absolute;
+    bottom: 60px;
+    left: 20px;
+    color: #ffffff;
+    background: rgba(42, 0, 77, 0.7); /* Roxo escuro semi-transparente */
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.category-tag {
+    background-color: #FF66FF; /* Magenta vibrante para a tag */
+    padding: 5px 10px;
+    font-size: 12px;
+    font-weight: bold;
+    border-radius: 5px;
+    color: #2A004D; /* Roxo escuro para texto na tag */
+}
+
+.carousel-content h2 {
+    font-size: 24px;
+    margin: 10px 0;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.carousel-content p {
+    font-size: 16px;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+}
+
+.carousel-prev,
+.carousel-next {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background: rgba(42, 0, 77, 0.5); /* Roxo escuro semi-transparente */
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background 0.3s ease;
+}
+
+.carousel-prev {
+    left: 10px;
+}
+
+.carousel-next {
+    right: 10px;
+}
+
+.carousel-prev:hover,
+.carousel-next:hover {
+    background: rgba(200, 0, 200, 0.8); /* Magenta vibrante ao hover */
+}
+
+.particle-icon {
+    position: relative;
+}
+
+.particle {
+    transform-origin: center;
+    animation: orbit 3s infinite linear;
+}
+
+.carousel-prev .particle:nth-child(2),
+.carousel-next .particle:nth-child(2) {
+    animation-delay: -1s;
+}
+
+.carousel-prev .particle:nth-child(3),
+.carousel-next .particle:nth-child(3) {
+    animation-delay: -2s;
+}
+
+@keyframes orbit {
+    0% { transform: translate(0, 0) rotate(0deg); }
+    25% { transform: translate(5px, -5px) rotate(90deg); }
+    50% { transform: translate(0, -10px) rotate(180deg); }
+    75% { transform: translate(-5px, -5px) rotate(270deg); }
+    100% { transform: translate(0, 0) rotate(360deg); }
+}
+
+.carousel-prev:hover .particle,
+.carousel-next:hover .particle {
+    animation: orbit-fast 1.5s infinite linear;
+}
+
+@keyframes orbit-fast {
+    0% { transform: translate(0, 0) rotate(0deg); }
+    25% { transform: translate(7px, -7px) rotate(90deg); }
+    50% { transform: translate(0, -14px) rotate(180deg); }
+    75% { transform: translate(-7px, -7px) rotate(270deg); }
+    100% { transform: translate(0, 0) rotate(360deg); }
+}
+
+.carousel-indicators {
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    gap: 8px;
+}
+
+.carousel-indicators span {
+    width: 10px;
+    height: 10px;
+    background: #ffffff;
+    border-radius: 50%;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+
+.carousel-indicators span.active {
+    background: #FF66FF; /* Magenta vibrante para o item ativo */
+}
+
+/* Matches Section Styles */
+.matches-section {
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 20px;
+    background: linear-gradient(to bottom, #3A005A, #B200B2); /* Gradiente roxo médio */
+    border-radius: 15px;
+    box-shadow: 0 0 20px rgba(255, 255, 255, 0.2);
+}
+
+.matches-section h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #ffffff;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+.matches-nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    margin-bottom: 20px;
+    flex-wrap: wrap; /* Allow wrapping for smaller screens */
+}
+
+.matches-nav select {
+    padding: 10px 20px;
+    background: linear-gradient(to bottom, #4A0072, #C200C2); /* Gradiente roxo */
+    color: #ffffff; /* Texto branco */
+    border: none;
+    border-radius: 15px;
+    font-size: 14px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    margin: 5px; /* Adjusted margin for wrapping */
+    -webkit-appearance: none; /* Remove estilo padrão do navegador */
+    -moz-appearance: none;
+    appearance: none;
+    position: relative;
+    background-image: url('data:image/svg+xml;charset=US-ASCII,%3Csvg%20width%3D%2210%22%20height%3D%225%22%20viewBox%3D%220%200%2010%205%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cpath%20d%3D%22M0%200L5%205L10%200H0Z%22%20fill%3D%22%23ffffff%22%2F%3E%3C%2Fsvg%3E');
+    background-repeat: no-repeat;
+    background-position: right 10px center;
+    padding-right: 30px; /* Espaço para a seta */
+}
+
+.matches-nav select option {
+    background: #2A004D; /* Fundo roxo escuro para opções */
+    color: #ffffff; /* Texto branco */
+    font-size: 14px;
+    padding: 10px;
+}
+
+.matches-nav select:hover {
+    background: linear-gradient(to bottom, #5A0082, #D200D2);
+    box-shadow: 0 0 12px rgba(255, 255, 255, 0.3);
+}
+
+.matches-nav select:focus {
+    outline: none;
+    background: linear-gradient(to bottom, #5A0082, #D200D2);
+    box-shadow: 0 0 15px rgba(255, 255, 255, 0.5);
+    color: #ffffff; /* Texto branco ao focar */
+}
+
+.matches-nav select:active,
+.matches-nav select:focus-visible {
+    color: #ffffff;
+    background: linear-gradient(to bottom, #5A0082, #D200D2);
+}
+
+.matches-nav input[type="text"] {
+    padding: 10px 15px;
+    background: linear-gradient(to bottom, #4A0072, #C200C2); /* Similar to selects */
+    color: #ffffff;
+    border: none;
+    border-radius: 15px; /* Consistent with selects */
+    font-size: 14px;
+    font-weight: normal; /* Placeholder might look better normal */
+    min-width: 180px; /* Minimum width */
+    flex-grow: 1; /* Allow it to take up available space if .matches-nav is flex */
+    margin: 5px; /* Adjusted margin for wrapping */
+}
+
+.matches-nav input[type="text"]::placeholder {
+    color: #e0e0e0;
+    font-weight: normal;
+}
+
+.matches-nav input[type="text"]:focus {
+    outline: none;
+    background: linear-gradient(to bottom, #5A0082, #D200D2); /* Darker on focus */
+    box-shadow: 0 0 12px rgba(255, 255, 255, 0.3); /* Consistent focus glow */
+}
+
+.matches-current {
+    font-size: 16px;
+    font-weight: bold;
+    color: #ffffff;
+    text-align: center;
+    margin-bottom: 15px; /* Space below the label */
+}
+
+.matches-container {
+    position: relative;
+    overflow-x: hidden;
+    padding: 10px 15px; /* Padding vertical adicionado e horizontal mantido */
+    width: 100%;
+    user-select: none;
+}
+
+.dynamic-matches-display {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    gap: 15px;
+    width: max-content;
+    padding-bottom: 90px; /* Pequeno padding inferior para dar respiro */
+}
+
+.week-separator-label {
+    padding: 8px 10px;
+    font-weight: bold;
+    color: #ffffff;
+    background-color: #7A1F9A;
+    border-radius: 8px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 60px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    white-space: nowrap;
+    flex-shrink: 0;
+}
+
+.dynamic-matches-display > .no-matches-message {
+    color: #e0e0e0;
+    padding: 20px;
+    text-align: center;
+    width: 100%;
+    font-style: italic;
+    flex-shrink: 0;
+}
+
+.match-item {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: #3A005A;
+    border: 2px solid #E0A0E0;
+    border-radius: 10px;
+    padding: 5px 15px; /* AUMENTADO PADDING VERTICAL para mais altura */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+    min-width: 220px;
+    flex: 0 0 auto;
+    z-index: 10;
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+}
+
+.match-item:hover {
+    transform: scale(1.03);
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.35);
+    z-index: 11;
+}
+
+.match-championship {
+    font-size: 14px;
+    color: #ffffff;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.match-teams {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-top: 5px; /* Espaço adicional */
+    margin-bottom: -5px; /* Espaço adicional */
+}
+
+.team {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2px; /* Aumentado o gap para dar mais respiro vertical */
+}
+
+.team-emblem-container {
+    width: 35px; /* Levemente aumentado */
+    height: 35px; /* Levemente aumentado */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    margin-bottom: 4px;
+}
+
+.team-emblem {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    object-position: center;
+    max-width: 35px;
+    max-height: 35px;
+}
+
+.team-name {
+    font-size: 13px; /* Levemente aumentado */
+    color: #E0A0E0;
+    text-align: center;
+    max-width: 90px; /* Levemente aumentado */
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    min-height: 1.2em; /* Para evitar que nomes curtos diminuam a altura */
+}
+
+.score {
+    font-size: 18px; /* Levemente aumentado */
+    font-weight: bold;
+    color: #ffffff;
+    margin: 0 10px;
+}
+
+.match-date {
+    font-size: 13px; /* Ajustado */
+    color: #E0A0E0;
+    margin-top: 10px;
+}
+
+.match-description {
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    background: rgba(42, 0, 77, 0.9);
+    white-space: pre-line;
+    color: #ffffff;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 12px;
+    width: 200px; /* Or max-width */
+    text-align: center;
+    display: none;
+    z-index: 100;
+    pointer-events: none;
+    margin-top: 5px;
+}
+
+.match-item:hover .match-description {
+    display: block;
+}
+
+.highlight-match {
+    box-shadow: 0 0 13px 3px rgba(255, 102, 255, 0.7);
+    border: 1px solid #FF66FF;
+    animation: glow 1.0s ease-in-out infinite alternate;
+}
+
+@keyframes glow {
+    from { box-shadow: 0 0 10px 3px rgba(255, 102, 255, 0.5); }
+    to { box-shadow: 0 0 20px 7px rgba(255, 102, 255, 0.9); }
+}
+
+/* Promotions Section Styles (from promocoes.html specific styles, if needed globally) */
+/* Usually, these would stay in promocoes.html or a separate promocoes.css unless parts are reused */
+.promotions-section {
+    max-width: 1200px;
+    margin: 40px auto;
+    padding: 30px;
+    background: linear-gradient(to bottom, #2A004A, #920092);
+    border-radius: 15px;
+    box-shadow: 0 0 20px rgba(255, 255, 255, 0.2);
+}
+
+.promotions-section h2 {
+    font-size: 28px;
+    font-weight: bold;
+    margin-bottom: 30px;
+    color: #ffffff;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-shadow: 0 0 10px rgba(255, 255, 255, 0.3);
+}
+
+/* ... outros estilos de .promotions-section, .promo-tabs, .promo-tab-button, etc. ... */
+/* Mantendo os estilos originais de .promo-content, .promo-line, etc. que já estavam em styles.css */
+.promo-tabs { /* Assuming this is for #market-tabs */
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin: 20px 0;
+    background: none;
+    border-radius: 0;
+    box-shadow: none;
+    padding: 0;
+}
+
+.promo-tab-button { /* Assuming this is the class for buttons inside .promo-tabs */
+    padding: 12px 25px;
+    background: linear-gradient(to bottom, #4A0072, #C200C2);
+    color: #ffffff;
+    border: none;
+    border-radius: 20px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    position: relative;
+    overflow: hidden;
+}
+
+.promo-tab-button:hover {
+    background: linear-gradient(to bottom, #5A0082, #D200D2);
+    box-shadow: 0 0 15px rgba(255, 255, 255, 0.4);
+    transform: scale(1.05);
+}
+
+.promo-tab-button.active, /* For JS active class */
+.promo-tab-button.selected { /* If .selected is used */
+    background: linear-gradient(to bottom, #6A0092, #E200E2);
+    box-shadow: 0 0 20px rgba(255, 255, 255, 0.6);
+    transform: scale(1.1);
+}
+
+
+.promo-tab-button::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: radial-gradient(circle, rgba(255, 255, 255, 0.3) 10%, transparent 10%);
+    background-size: 20px 20px;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+.promo-tab-button:hover::before,
+.promo-tab-button.active::before,
+.promo-tab-button.selected::before {
+    opacity: 0.2;
+}
+
+.promotions-container { /* Assuming this is #promotions-display-area */
+    display: flex;
+    flex-direction: column; /* Or grid/flex-wrap for promo-item-card */
+    gap: 20px;
+    padding: 25px;
+    background: linear-gradient(to bottom, #3A005A, #B200B2);
+    border-radius: 15px;
+    box-shadow: 0 0 15px rgba(255, 255, 255, 0.2);
+}
+
+.promo-item-card {
+    background: rgba(255, 255, 255, 0.1); /* Ajustado do promocoes.html */
+    padding: 20px;
+    border-radius: 10px;
+    color: #ffffff;
+    text-align: left; /* Or center, depending on content */
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    margin-bottom: 15px; /* Adicionado de promocoes.html */
+    /* box-shadow: 0 2px 5px rgba(0,0,0,0.2); /* Adicionado de promocoes.html, pode ser redundante com o :hover */
+}
+
+.promo-item-card:hover {
+    transform: scale(1.03) translateY(-5px); /* Combina translateY com novo scale */
+    box-shadow: 0 6px 20px rgba(0,0,0,0.35); /* Enhanced shadow */
+}
+
+.promo-item-card h3 {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 15px; /* Ajustado de promocoes.html */
+    color: #ffffff;
+    text-transform: uppercase;
+}
+
+.promo-item-card p {
+    font-size: 14px; /* Ajustado de promocoes.html */
+    margin: 8px 0; /* Ajustado de promocoes.html */
+    line-height: 1.6; /* Ajustado de promocoes.html */
+    color: #ffffff;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+}
+.promo-item-card p strong {
+    color: #E0A0E0;
+    font-weight: bold;
+    margin-right: 5px;
+}
+
+
+/* Estilos antigos .promo-content, .promo-line - manter se ainda usados, senão podem ser removidos/revisados */
+.promo-content {
+    background: rgba(255, 255, 255, 0.1);
+    padding: 20px;
+    border-radius: 10px;
+    color: #ffffff;
+    text-align: center;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.promo-content:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 5px 20px rgba(255, 255, 255, 0.4);
+}
+.promo-line {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 0;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+}
+.promo-line:last-child {
+    border-bottom: none;
+}
+.promo-event { flex: 1; text-align: left; font-weight: bold; }
+.promo-match { flex: 1; text-align: center; }
+.promo-datetime { flex: 1; text-align: right; font-style: italic; }
+/* Fim dos estilos antigos de promoções */
+
+
+/* Estilos para o Modal/Popup de Principais Eventos */
+.popup-modal { /* Usado tanto pelo calendário quanto pelo popup de eventos */
+    display: none; /* Inicia oculto */
+    position: fixed;
+    z-index: 1001; /* Padrão para calendário, popup de eventos usa 2000 */
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7); /* Fundo para calendário */
+    backdrop-filter: blur(5px); /* Para calendário */
+    -webkit-backdrop-filter: blur(5px); /* Para calendário */
+    align-items: center;
+    justify-content: center;
+    opacity: 0; /* Para animação de fade */
+    transition: opacity 0.4s ease-in-out;
+}
+#main-events-popup.popup-modal { /* Específico para o popup de eventos principais */
+    z-index: 2000; /* Acima do calendário */
+    background-color: rgba(0, 0, 0, 0.8); /* Overlay mais escuro */
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+}
+
+
+.popup-modal.visible { /* Classe para mostrar qualquer popup */
+    display: flex;
+    opacity: 1;
+}
+
+.popup-event-content { /* Conteúdo do popup de Principais Eventos */
+    position: relative;
+    background: linear-gradient(135deg, #4A0080, #A000A0); /* Gradiente roxo */
+    color: #ffffff;
+    padding: 30px 40px;
+    border-radius: 12px;
+    width: 90%;
+    max-width: 600px;
+    box-shadow: 0 10px 30px rgba(255, 102, 255, 0.5);
+    border: 2px solid #FF66FF;
+    text-align: center;
+    max-height: 80vh;
+    overflow-y: auto;
+}
+.popup-event-content::-webkit-scrollbar { width: 8px; }
+.popup-event-content::-webkit-scrollbar-track { background: rgba(255,255,255,0.1); border-radius: 10px; }
+.popup-event-content::-webkit-scrollbar-thumb { background: #FF66FF; border-radius: 10px; }
+.popup-event-content::-webkit-scrollbar-thumb:hover { background: #E0A0E0; }
+
+.popup-event-content h2 {
+    font-size: 28px;
+    margin-bottom: 10px;
+    color: #FFD700;
+    text-shadow: 1px 1px 3px rgba(0,0,0,0.5);
+}
+.popup-event-content .popup-subtitle {
+    font-size: 16px;
+    margin-bottom: 25px;
+    color: #f0f0f0;
+}
+.popup-modal .popup-close-button { /* Estilo genérico para botões de fechar em popups */
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    color: #ffffff;
+    font-size: 32px;
+    font-weight: bold;
+    transition: color 0.3s, transform 0.3s;
+    cursor: pointer;
+}
+.popup-modal .popup-close-button:hover,
+.popup-modal .popup-close-button:focus {
+    color: #FFD700;
+    text-decoration: none;
+    transform: scale(1.2);
+}
+/* O .close-button do calendário já tem seu próprio estilo em calendar.css,
+   que é mais específico e deve sobrescrever o .popup-close-button genérico se necessário.
+   Se não houver calendar.css, este será o fallback.
+*/
+
+#main-events-list {
+    margin-top: 20px;
+    text-align: left;
+}
+#main-events-list ul {
+    list-style: none;
+    padding: 0;
+}
+#main-events-list li {
+    background-color: rgba(255, 255, 255, 0.08);
+    border-left: 4px solid #FFD700;
+    padding: 12px 15px;
+    margin-bottom: 12px;
+    border-radius: 6px;
+    font-size: 15px;
+    transition: background-color 0.3s;
+}
+#main-events-list li:hover {
+    background-color: rgba(255, 255, 255, 0.15);
+}
+#main-events-list li strong {
+    display: block;
+    font-size: 17px;
+    color: #E0A0E0;
+    margin-bottom: 4px;
+}
+#main-events-list li .event-date {
+    display: block;
+    font-size: 0.9em;
+    color: #ccc;
+    margin-bottom: 5px;
+    font-style: italic;
+}
+
+
+/* Responsividade */
+@media (max-width: 768px) {
+    .top-bar {
+        flex-direction: column; /* Faz o logo, centro e nav-menu empilharem */
+        gap: 10px;
+        padding: 10px; /* Ajusta padding */
+    }
+    .top-bar-center-item {
+        position: static; /* Remove posicionamento absoluto em mobile */
+        transform: none; /* Remove transform */
+        order: 2; /* Ordem no flex-direction column: logo(1 default), center(2), nav-menu(3 default) */
+        margin-top: 5px; /* Espaçamento */
+        margin-bottom: 5px;
+    }
+    .logo-img { order: 1; }
+    .nav-menu { order: 3; justify-content: center; /* Centraliza o botão do calendário */ }
+
+
+    .sports-buttons {
+        position: static;
+        transform: none;
+        flex-wrap: wrap;
+        gap: 8px;
+        margin: 20px 10px; /* Ajusta margem para não colar na top-bar empilhada */
+    }
+    .sports-buttons .button {
+        padding: 6px 12px;
+        font-size: 12px;
+    }
+
+    .carousel {
+        margin: 20px auto;
+    }
+    .carousel-content h2 { font-size: 20px; }
+    .carousel-content p { font-size: 14px; }
+
+    .matches-section { margin: 20px; padding: 15px; }
+    .matches-section h2 { font-size: 20px; }
+    .matches-nav { flex-direction: column; gap: 10px; }
+    .matches-nav select,
+    .matches-nav input[type="text"] {
+        width: calc(100% - 10px);
+        margin: 5px;
+        padding: 8px 16px;
+        font-size: 13px;
+    }
+    .matches-nav input[type="text"] { padding-right: 15px; }
+    .matches-current { font-size: 14px; }
+    .matches-container { padding: 5px 10px; }
+    .match-item { min-width: 180px; padding: 15px 10px; }
+    .team-emblem-container { width: 30px; height: 30px; }
+    .team-emblem { max-width: 30px; max-height: 30px; }
+    .team-name { font-size: 11px; max-width: 70px; }
+    .score { font-size: 16px; }
+    .week-separator-label { min-height: 50px; padding: 6px 8px; font-size: 0.85em; }
+
+    .promotions-section { margin: 20px; padding: 15px; }
+    .promotions-section h2 { font-size: 22px; margin-bottom: 15px; }
+    .promo-tabs { flex-wrap: wrap; gap: 8px; padding: 0; }
+    .promo-tab-button { padding: 8px 16px; font-size: 13px; border-radius: 15px; }
+    .promotions-container { padding: 10px; gap: 10px; }
+    .promo-item-card { padding: 10px; border-radius: 8px; }
+    .promo-item-card h3 { font-size: 18px; }
+    .promo-item-card p { font-size: 14px; }
+
+    .promo-line { flex-direction: column; align-items: flex-start; gap: 4px; padding: 8px 0; }
+    .promo-event, .promo-match, .promo-datetime { flex: none; text-align: left; font-size: 12px; }
+
+    /* Popup de Eventos Principais em Mobile */
+    .popup-event-content {
+        padding: 20px 25px;
+        width: 95%;
+        max-height: 85vh;
+    }
+    .popup-event-content h2 { font-size: 22px; }
+    .popup-event-content .popup-subtitle { font-size: 14px; margin-bottom: 20px; }
+    #main-events-list li { padding: 10px; font-size: 14px; }
+    #main-events-list li strong { font-size: 16px; }
+}
+
+/* Classe para esconder elementos */
+.hidden {
+    display: none;
+}
+
+/* Comments Section (dentro de .match-item) */
+.comments-section {
+    margin-top: 8px;
+    width: 100%;
+}
+.toggle-comments {
+    background: #8a00b2;
+    border: none;
+    border-radius: 5px;
+    color: #ffffff;
+    padding: 4px 8px;
+    font-size: 11px;
+    cursor: pointer;
+    transition: background 0.3s;
+    width: 100%;
+    box-sizing: border-box;
+}
+.toggle-comments:hover { background: #a300d6; }
+.comments-content {
+    margin-top: 5px;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.3s ease-in-out;
+}
+.comments-content.expanded { max-height: 150px; overflow-y: auto; }
+.comment {
+    color: #e0e0e0;
+    font-size: 11px;
+    margin: 3px 0;
+    background: rgba(255, 255, 255, 0.05);
+    padding: 4px 6px;
+    border-radius: 3px;
+    text-align: left;
+}
+
+/* Estilos do calendar.css devem ser mantidos em calendar.css para modularidade,
+   mas se você quiser fundir, eles viriam aqui.
+   Assumindo que calendar.css ainda está linkado no HTML.
+*/

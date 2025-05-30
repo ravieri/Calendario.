@@ -1,0 +1,1815 @@
+{
+    "carouselData": [
+        {
+            "imgSrc": "futebol imagens/cearaxatleticomg.webp",
+            "alt": "Jogo de Futebol",
+            "categoryTag": "Brasileirão Betano",
+            "title": "Ceará x Atlético-MG",
+            "description": "Atlético-MG visita o Ceará em jogo crucial pela Rodada 11 do Brasileirão Betano!"
+        },
+        {
+            "imgSrc": "futebol imagens/flamengoxpalmeiras.webp",
+            "alt": "Jogo de Futebol",
+            "categoryTag": "Brasileirão Série A",
+            "title": "Flamengo x Palmeiras",
+            "description": "Gigantes em campo! Flamengo e Palmeiras medem forças no Brasileirão Série A!"
+        },
+        {
+            "imgSrc": "futebol imagens/corinthiansxsaopaulo.webp",
+            "alt": "Jogo de Futebol",
+            "categoryTag": "Brasileirão Série A",
+            "title": "Corinthians x São Paulo",
+            "description": "Majestoso! Corinthians e São Paulo se enfrentam em um clássico de tirar o fôlego!"
+        },
+        {
+            "imgSrc": "futebol imagens/espanhaxfranca.webp",
+            "alt": "Jogo de Futebol",
+            "categoryTag": "UEFA Nations League",
+            "title": "Espanha x França",
+            "description": "Duelo de titãs! Espanha e França buscam uma vaga na final da UEFA Nations League!"
+        },
+        {
+            "imgSrc": "futebol imagens/chilexargentina.webp",
+            "alt": "Jogo de Futebol",
+            "categoryTag": "Eliminatórias Copa do Mundo",
+            "title": "Chile x Argentina",
+            "description": "Rivalidade em alta! Chile e Argentina disputam pontos valiosos nas Eliminatórias da Copa!"
+        }
+    ],
+    "matchesData": {
+        "Junho": [
+            {
+                "weekLabel": "Semana 1 (01/06 - 07/06)",
+                "matches": [
+                    {
+                        "championship": "Brasileirão Série A",
+                        "teamA": { "name": "Flamengo", "emblem": "Emblems/Flamengo.png" },
+                        "teamB": { "name": "Palmeiras", "emblem": "Emblems/Palmeiras.png" },
+                        "score": "X",
+                        "date": "01/06/2025 • 16:00",
+                        "description": "Flamengo e Palmeiras se enfrentam em um clássico!\n\nVálido pela 10ª rodada do Brasileirão Série A.",
+                        "comments": [
+                            "Vai ser um jogaço! Palmeiras tá forte!",
+                            "Flamengo precisa marcar cedo pra vencer."
+                        ]
+                    },
+                    {
+                        "championship": "Brasileirão Betano, Rodada 11",
+                        "teamA": { "name": "Santos", "emblem": "Emblems/Santos.png" },
+                        "teamB": { "name": "Botafogo", "emblem": "Emblems/Botafogo.png" },
+                        "score": "X",
+                        "date": "01/06/2025 • 16:00",
+                        "description": "Santos e Botafogo se enfrentam pela Rodada 11 do Brasileirão Betano.",
+                        "comments": []
+                    },
+                    {
+                        "championship": "Brasileirão Betano, Rodada 11",
+                        "teamA": { "name": "Ceará", "emblem": "Emblems/Ceara.png" },
+                        "teamB": { "name": "Atlético-MG", "emblem": "Emblems/Atletico_MG.png" },
+                        "score": "X",
+                        "date": "01/06/2025 • 18:30",
+                        "description": "Ceará e Atlético-MG se enfrentam pela Rodada 11 do Brasileirão Betano.",
+                        "comments": []
+                    },
+                    {
+                        "championship": "Brasileirão Betano, Rodada 11",
+                        "teamA": { "name": "Corinthians", "emblem": "Emblems/Corinthians.png" },
+                        "teamB": { "name": "Vitória", "emblem": "Emblems/Vitoria.png" },
+                        "score": "X",
+                        "date": "01/06/2025 • 18:30",
+                        "description": "Corinthians e Vitória se enfrentam pela Rodada 11 do Brasileirão Betano.",
+                        "comments": []
+                    },
+                    {
+                        "championship": "Brasileirão Betano, Rodada 11",
+                        "teamA": { "name": "Cruzeiro", "emblem": "Emblems/Cruzeiro.png" },
+                        "teamB": { "name": "Palmeiras", "emblem": "Emblems/Palmeiras.png" },
+                        "score": "X",
+                        "date": "01/06/2025 • 19:30",
+                        "description": "Cruzeiro e Palmeiras se enfrentam pela Rodada 11 do Brasileirão Betano.",
+                        "comments": []
+                    },
+                    {
+                        "championship": "Brasileirão Betano, Rodada 11",
+                        "teamA": { "name": "Internacional", "emblem": "Emblems/Internacional.png" },
+                        "teamB": { "name": "Fluminense", "emblem": "Emblems/Fluminense.png" },
+                        "score": "X",
+                        "date": "01/06/2025 • 20:30",
+                        "description": "Internacional e Fluminense se enfrentam pela Rodada 11 do Brasileirão Betano.",
+                        "comments": []
+                    },
+                    {
+                        "championship": "Brasileirão Série B, Rodada 10",
+                        "teamA": { "name": "Volta Redonda", "emblem": "Emblems/Volta_Redonda.png" },
+                        "teamB": { "name": "América-MG", "emblem": "Emblems/America_MG.png" },
+                        "score": "X",
+                        "date": "01/06/2025 • 20:30",
+                        "description": "Volta Redonda e América-MG se enfrentam pela Rodada 10 do Brasileirão Série B.",
+                        "comments": []
+                    },
+                    {
+                        "championship": "Brasileirão Série A",
+                        "teamA": { "name": "Corinthians", "emblem": "Emblems/Corinthians.png" },
+                        "teamB": { "name": "São Paulo", "emblem": "Emblems/Sao_Paulo.png" },
+                        "score": "X",
+                        "date": "02/06/2025 • 18:00",
+                        "description": "Choque-rei entre Corinthians e São Paulo!\n\nDecisão importante na tabela.",
+                        "comments": [
+                            "Corinthians tem que melhorar a defesa!",
+                            "São Paulo pode surpreender com o ataque."
+                        ]
+                    },
+                    {
+                        "championship": "Brasileirão Série B, Rodada 10",
+                        "teamA": { "name": "Chapecoense", "emblem": "Emblems/Chapecoense.png" },
+                        "teamB": { "name": "Amazonas", "emblem": "Emblems/Amazonas.png" },
+                        "score": "X",
+                        "date": "02/06/2025 • 19:00",
+                        "description": "Chapecoense e Amazonas se enfrentam pela Rodada 10 do Brasileirão Série B.",
+                        "comments": []
+                    },
+                    {
+                        "championship": "LigaPro Serie A, Primera Etapa, Rodada 15",
+                        "teamA": { "name": "Vinotinto Fútbol Club", "emblem": "Emblems/Vinotinto_Futbol_Club.png" },
+                        "teamB": { "name": "Libertad", "emblem": "Emblems/Libertad.png" },
+                        "score": "X",
+                        "date": "02/06/2025 • 21:00",
+                        "description": "Vinotinto Fútbol Club e Libertad se enfrentam pela Rodada 15 da LigaPro Serie A, Primera Etapa.",
+                        "comments": []
+                    },
+                    {
+                        "championship": "Brasileirão Série B, Rodada 10",
+                        "teamA": { "name": "Paysandu", "emblem": "Emblems/Paysandu.png" },
+                        "teamB": { "name": "Criciúma", "emblem": "Emblems/Criciuma.png" },
+                        "score": "X",
+                        "date": "02/06/2025 • 21:00",
+                        "description": "Paysandu e Criciúma se enfrentam pela Rodada 10 do Brasileirão Série B.",
+                        "comments": []
+                    },
+                    {
+                        "championship": "UEFA Nations League, Women, League A, Gr.3, Rodada 6",
+                        "teamA": { "name": "Espanha", "emblem": "Emblems/Espanha.png" },
+                        "teamB": { "name": "Inglaterra", "emblem": "Emblems/Inglaterra.png" },
+                        "score": "X",
+                        "date": "03/06/2025 • 14:00",
+                        "description": "Espanha e Inglaterra se enfrentam pela Rodada 6 da UEFA Nations League, Women, League A, Gr.3.",
+                        "comments": []
+                    },
+                    {
+                        "championship": "UEFA Nations League, Women, League A, Gr.2, Rodada 6",
+                        "teamA": { "name": "Islândia", "emblem": "Emblems/Islandia.png" },
+                        "teamB": { "name": "França", "emblem": "Emblems/Franca.png" },
+                        "score": "X",
+                        "date": "03/06/2025 • 15:00",
+                        "description": "Islândia e França se enfrentam pela Rodada 6 da UEFA Nations League, Women, League A, Gr.2.",
+                        "comments": []
+                    },
+                    {
+                        "championship": "UEFA Nations League, Women, League A, Gr.1, Rodada 6",
+                        "teamA": { "name": "Áustria", "emblem": "Emblems/Austria.png" },
+                        "teamB": { "name": "Alemanha", "emblem": "Emblems/Alemanha.png" },
+                        "score": "X",
+                        "date": "03/06/2025 • 15:30",
+                        "description": "Áustria e Alemanha se enfrentam pela Rodada 6 da UEFA Nations League, Women, League A, Gr.1.",
+                        "comments": []
+                    },
+                    {
+                        "championship": "Liga de Primera, Rodada 13",
+                        "teamA": { "name": "Unión Española", "emblem": "Emblems/Union_Espanola.png" },
+                        "teamB": { "name": "Deportes Limache", "emblem": "Emblems/Deportes_Limache.png" },
+                        "score": "X",
+                        "date": "03/06/2025 • 16:00",
+                        "description": "Unión Española e Deportes Limache se enfrentam pela Rodada 13 da Liga de Primera.",
+                        "comments": []
+                    },
+                    {
+                        "championship": "World Cup Qualificação, CONCACAF 2nd round, Group D, Rodada 3",
+                        "teamA": { "name": "Montserrat", "emblem": "Emblems/Montserrat.png" },
+                        "teamB": { "name": "Belize", "emblem": "Emblems/Belize.png" },
+                        "score": "X",
+                        "date": "04/06/2025 • 18:00",
+                        "description": "Montserrat e Belize se enfrentam pela Rodada 3 da World Cup Qualificação, CONCACAF 2nd round, Group D.",
+                        "comments": []
+                    },
+                    {
+                        "championship": "Brasileirão Betano, Rodada 10",
+                        "teamA": { "name": "Botafogo", "emblem": "Emblems/Botafogo.png" },
+                        "teamB": { "name": "Ceará", "emblem": "Emblems/Ceara.png" },
+                        "score": "X",
+                        "date": "04/06/2025 • 20:00",
+                        "description": "Botafogo e Ceará se enfrentam pela Rodada 10 do Brasileirão Betano.",
+                        "comments": []
+                    },
+                    {
+                        "championship": "World Cup Qualificação, CONCACAF 2nd round, Group A, Rodada 3",
+                        "teamA": { "name": "Bermuda", "emblem": "Emblems/Bermuda.png" },
+                        "teamB": { "name": "Ilhas Cayman", "emblem": "Emblems/Ilhas_Cayman.png" },
+                        "score": "X",
+                        "date": "04/06/2025 • 20:00",
+                        "description": "Bermuda e Ilhas Cayman se enfrentam pela Rodada 3 da World Cup Qualificação, CONCACAF 2nd round, Group A.",
+                        "comments": []
+                    },
+                    {
+                        "championship": "Primera A, Apertura, Rodada 2",
+                        "teamA": { "name": "Tolima", "emblem": "Emblems/Tolima.png" },
+                        "teamB": { "name": "Ind. Medellín", "emblem": "Emblems/Ind._Medellin.png" },
+                        "score": "X",
+                        "date": "04/06/2025 • 20:10",
+                        "description": "Tolima e Ind. Medellín se enfrentam pela Rodada 2 da Primera A, Apertura.",
+                        "comments": []
+                    },
+                    {
+                        "championship": "Primera A, Apertura, Rodada 2",
+                        "teamA": { "name": "América", "emblem": "Emblems/America.png" },
+                        "teamB": { "name": "Junior Barranquilla", "emblem": "Emblems/Junior_Barranquilla.png" },
+                        "score": "X",
+                        "date": "04/06/2025 • 22:15",
+                        "description": "América e Junior Barranquilla se enfrentam pela Rodada 2 da Primera A, Apertura.",
+                        "comments": []
+                    },
+                    {
+                        "championship": "World Cup Qualificação, AFC, Round 3, Gr. C, Rodada 9",
+                        "teamA": { "name": "Austrália", "emblem": "Emblems/Australia.png" },
+                        "teamB": { "name": "Japão", "emblem": "Emblems/Japao.png" },
+                        "score": "X",
+                        "date": "05/06/2025 • 08:10",
+                        "description": "Austrália e Japão se enfrentam pela Rodada 9 da World Cup Qualificação, AFC, Round 3, Gr. C.",
+                        "comments": []
+                    },
+                    {
+                        "championship": "World Cup Qualificação, AFC, Round 3, Gr. C, Rodada 9",
+                        "teamA": { "name": "Indonésia", "emblem": "Emblems/Indonesia.png" },
+                        "teamB": { "name": "China", "emblem": "Emblems/China.png" },
+                        "score": "X",
+                        "date": "05/06/2025 • 10:45",
+                        "description": "Indonésia e China se enfrentam pela Rodada 9 da World Cup Qualificação, AFC, Round 3, Gr. C.",
+                        "comments": []
+                    },
+                    {
+                        "championship": "World Cup Qualificação, AFC, Round 3, Group A, Rodada 9",
+                        "teamA": { "name": "Coréia do Norte", "emblem": "Emblems/Coreia_do_Norte.png" },
+                        "teamB": { "name": "Quirguistão", "emblem": "Emblems/Quirguistao.png" },
+                        "score": "X",
+                        "date": "05/06/2025 • 15:15",
+                        "description": "Coréia do Norte e Quirguistão se enfrentam pela Rodada 9 da World Cup Qualificação, AFC, Round 3, Group A.",
+                        "comments": []
+                    },
+                    {
+                        "championship": "World Cup Qualificação, AFC, Round 3, Group B, Rodada 9",
+                        "teamA": { "name": "Iraque", "emblem": "Emblems/Iraque.png" },
+                        "teamB": { "name": "Coréia do Sul", "emblem": "Emblems/Coreia_do_Sul.png" },
+                        "score": "X",
+                        "date": "05/06/2025 • 15:15",
+                        "description": "Iraque e Coréia do Sul se enfrentam pela Rodada 9 da World Cup Qualificação, AFC, Round 3, Group B.",
+                        "comments": []
+                    },
+                    {
+                        "championship": "UEFA Nations League, Finals, Semifinal",
+                        "teamA": { "name": "Espanha", "emblem": "Emblems/Espanha.png" },
+                        "teamB": { "name": "França", "emblem": "Emblems/Franca.png" },
+                        "score": "X",
+                        "date": "05/06/2025 • 16:00",
+                        "description": "Espanha e França se enfrentam pelo(a) UEFA Nations League, Finals, Semifinal.",
+                        "comments": []
+                    },
+                    {
+                        "championship": "Brasileirão Série B, Rodada 11",
+                        "teamA": { "name": "Botafogo-SP", "emblem": "Emblems/Botafogo_SP.png" },
+                        "teamB": { "name": "Coritiba", "emblem": "Emblems/Coritiba.png" },
+                        "score": "X",
+                        "date": "05/06/2025 • 18:00",
+                        "description": "Botafogo-SP e Coritiba se enfrentam pela Rodada 11 do Brasileirão Série B.",
+                        "comments": []
+                    },
+                    {
+                        "championship": "World Cup Qualificação, CONMEBOL, Rodada 15",
+                        "teamA": { "name": "Equador", "emblem": "Emblems/Equador.png" },
+                        "teamB": { "name": "Brasil", "emblem": "Emblems/Brazil.png" },
+                        "score": "X",
+                        "date": "05/06/2025 • 20:00",
+                        "description": "Equador e Brasil se enfrentam pela Rodada 15 da World Cup Qualificação, CONMEBOL.",
+                        "comments": []
+                    },
+                    {
+                        "championship": "World Cup Qualificação, CONMEBOL, Rodada 15",
+                        "teamA": { "name": "Paraguai", "emblem": "Emblems/Paraguai.png" },
+                        "teamB": { "name": "Uruguai", "emblem": "Emblems/Uruguai.png" },
+                        "score": "X",
+                        "date": "05/06/2025 • 20:00",
+                        "description": "Paraguai e Uruguai se enfrentam pela Rodada 15 da World Cup Qualificação, CONMEBOL.",
+                        "comments": []
+                    },
+                    {
+                        "championship": "World Cup Qualificação, CONMEBOL, Rodada 15",
+                        "teamA": { "name": "Chile", "emblem": "Emblems/Chile.png" },
+                        "teamB": { "name": "Argentina", "emblem": "Emblems/Argentina.png" },
+                        "score": "X",
+                        "date": "05/06/2025 • 22:00",
+                        "description": "Chile e Argentina se enfrentam pela Rodada 15 da World Cup Qualificação, CONMEBOL.",
+                        "comments": []
+                    },
+                    {
+                        "championship": "World Championship Qual. UEFA I, Rodada 3",
+                        "teamA": { "name": "Noruega", "emblem": "Emblems/Noruega.png" },
+                        "teamB": { "name": "Itália", "emblem": "Emblems/Italy.png" },
+                        "score": "X",
+                        "date": "06/06/2025 • 15:45",
+                        "description": "Noruega e Itália se enfrentam pela Rodada 3 do World Championship Qual. UEFA I.",
+                        "comments": []
+                    },
+                    {
+                        "championship": "World Championship Qual. UEFA J, Rodada 3",
+                        "teamA": { "name": "Macedônia do Norte", "emblem": "Emblems/Macedonia_do_Norte.png" },
+                        "teamB": { "name": "Bélgica", "emblem": "Emblems/Belgica.png" },
+                        "score": "X",
+                        "date": "06/06/2025 • 15:45",
+                        "description": "Macedônia do Norte e Bélgica se enfrentam pela Rodada 3 do World Championship Qual. UEFA J.",
+                        "comments": []
+                    },
+                    {
+                        "championship": "Brasileirão Série B, Rodada 11",
+                        "teamA": { "name": "Novorizontino", "emblem": "Emblems/Novorizontino.png" },
+                        "teamB": { "name": "Chapecoense", "emblem": "Emblems/Chapecoense.png" },
+                        "score": "X",
+                        "date": "06/06/2025 • 16:00",
+                        "description": "Novorizontino e Chapecoense se enfrentam pela Rodada 11 do Brasileirão Série B.",
+                        "comments": []
+                    },
+                    {
+                        "championship": "World Cup Qualificação, CONMEBOL, Rodada 15",
+                        "teamA": { "name": "Colômbia", "emblem": "Emblems/Colombia.png" },
+                        "teamB": { "name": "Peru", "emblem": "Emblems/Peru.png" },
+                        "score": "X",
+                        "date": "06/06/2025 • 17:30",
+                        "description": "Colômbia e Peru se enfrentam pela Rodada 15 da World Cup Qualificação, CONMEBOL.",
+                        "comments": []
+                    },
+                    {
+                        "championship": "World Cup Qualificação, CONMEBOL, Rodada 15",
+                        "teamA": { "name": "Venezuela", "emblem": "Emblems/Venezuela.png" },
+                        "teamB": { "name": "Bolívia", "emblem": "Emblems/Bolivia.png" },
+                        "score": "X",
+                        "date": "06/06/2025 • 19:00",
+                        "description": "Venezuela e Bolívia se enfrentam pela Rodada 15 da World Cup Qualificação, CONMEBOL.",
+                        "comments": []
+                    },
+                    {
+                        "championship": "Brasileirão Série B, Rodada 11",
+                        "teamA": { "name": "Cuiabá", "emblem": "Emblems/Cuiaba.png" },
+                        "teamB": { "name": "Paysandu", "emblem": "Emblems/Paysandu.png" },
+                        "score": "X",
+                        "date": "06/06/2025 • 21:35",
+                        "description": "Cuiabá e Paysandu se enfrentam pela Rodada 11 do Brasileirão Série B.",
+                        "comments": []
+                    },
+                    {
+                        "championship": "World Championship Qual. UEFA K, Rodada 3",
+                        "teamA": { "name": "Andorra", "emblem": "Emblems/Andorra.png" },
+                        "teamB": { "name": "Inglaterra", "emblem": "Emblems/Inglaterra.png" },
+                        "score": "X",
+                        "date": "07/06/2025 • 13:00",
+                        "description": "Andorra e Inglaterra se enfrentam pela Rodada 3 do World Championship Qual. UEFA K.",
+                        "comments": []
+                    },
+                    {
+                        "championship": "World Championship Qual. UEFA G, Rodada 3",
+                        "teamA": { "name": "Finlândia", "emblem": "Emblems/Finlandia.png" },
+                        "teamB": { "name": "Holanda", "emblem": "Emblems/Holanda.png" },
+                        "score": "X",
+                        "date": "07/06/2025 • 15:45",
+                        "description": "Finlândia e Holanda se enfrentam pela Rodada 3 do World Championship Qual. UEFA G.",
+                        "comments": []
+                    },
+                    {
+                        "championship": "World Championship Qual. UEFA H, Rodada 3",
+                        "teamA": { "name": "Áustria", "emblem": "Emblems/Austria.png" },
+                        "teamB": { "name": "Romênia", "emblem": "Emblems/Romania.png" },
+                        "score": "X",
+                        "date": "07/06/2025 • 15:45",
+                        "description": "Áustria e Romênia se enfrentam pela Rodada 3 do World Championship Qual. UEFA H.",
+                        "comments": []
+                    },
+                    {
+                        "championship": "World Championship Qual. UEFA K, Rodada 3",
+                        "teamA": { "name": "Albânia", "emblem": "Emblems/Albania.png" },
+                        "teamB": { "name": "Sérvia", "emblem": "Emblems/Servia.png" },
+                        "score": "X",
+                        "date": "07/06/2025 • 15:45",
+                        "description": "Albânia e Sérvia se enfrentam pela Rodada 3 do World Championship Qual. UEFA K.",
+                        "comments": []
+                    },
+                    {
+                        "championship": "Brasileirão Série B, Rodada 11",
+                        "teamA": { "name": "América-MG", "emblem": "Emblems/America_MG.png" },
+                        "teamB": { "name": "Ferroviária", "emblem": "Emblems/Ferroviaria.png" },
+                        "score": "X",
+                        "date": "07/06/2025 • 16:00",
+                        "description": "América-MG e Ferroviária se enfrentam pela Rodada 11 do Brasileirão Série B.",
+                        "comments": []
+                    }
+                ]
+            },
+            {
+                "weekLabel": "Semana 2 (08/06 - 14/06)",
+                "matches": [
+                    {
+                        "championship": "Brasileirão Série B, Rodada 11",
+                        "teamA": {
+                            "name": "Athletico",
+                            "emblem": "Emblems/Athletico.png"
+                        },
+                        "teamB": {
+                            "name": "Atlético Goianiense",
+                            "emblem": "Emblems/Atletico_GO.png"
+                        },
+                        "score": "X",
+                        "date": "08/06/2025 • 18:00",
+                        "description": "Athletico e Atlético Goianiense se enfrentam pelo(a) Brasileirão Série B, Rodada 11.",
+                        "comments": []
+                    },
+                    {
+                        "championship": "Brasileirão Série B, Rodada 11",
+                        "teamA": {
+                            "name": "Remo",
+                            "emblem": "Emblems/Remo.png"
+                        },
+                        "teamB": {
+                            "name": "Operário-PR",
+                            "emblem": "Emblems/Operario_PR.png"
+                        },
+                        "score": "X",
+                        "date": "08/06/2025 • 20:30",
+                        "description": "Remo e Operário-PR se enfrentam pelo(a) Brasileirão Série B, Rodada 11.",
+                        "comments": []
+                    },
+                    {
+                        "championship": "World Championship Qual. UEFA I, Rodada 4",
+                        "teamA": {
+                            "name": "Italy",
+                            "emblem": "Emblems/Italy.png"
+                        },
+                        "teamB": {
+                            "name": "Moldova",
+                            "emblem": "Emblems/Moldavia.png"
+                        },
+                        "score": "X",
+                        "date": "09/06/2025 • 15:45",
+                        "description": "Italy e Moldova se enfrentam pelo(a) World Championship Qual. UEFA I, Rodada 4.",
+                        "comments": []
+                    },
+                    {
+                        "championship": "World Championship Qual. UEFA I, Rodada 4",
+                        "teamA": {
+                            "name": "Estonia",
+                            "emblem": "Emblems/Estonia.png"
+                        },
+                        "teamB": {
+                            "name": "Norway",
+                            "emblem": "Emblems/Noruega.png"
+                        },
+                        "score": "X",
+                        "date": "09/06/2025 • 15:45",
+                        "description": "Estonia e Norway se enfrentam pelo(a) World Championship Qual. UEFA I, Rodada 4.",
+                        "comments": []
+                    },
+                    {
+                        "championship": "World Championship Qual. UEFA L, Rodada 4",
+                        "teamA": {
+                            "name": "Croatia",
+                            "emblem": "Emblems/Croacia.png"
+                        },
+                        "teamB": {
+                            "name": "Czechia",
+                            "emblem": "Emblems/Checa.png"
+                        },
+                        "score": "X",
+                        "date": "09/06/2025 • 15:45",
+                        "description": "Croatia e Czechia se enfrentam pelo(a) World Championship Qual. UEFA L, Rodada 4.",
+                        "comments": []
+                    },
+                    {
+                        "championship": "Brasileirão Série B, Rodada 11",
+                        "teamA": {
+                            "name": "Criciúma",
+                            "emblem": "Emblems/Criciuma.png"
+                        },
+                        "teamB": {
+                            "name": "Vila Nova FC",
+                            "emblem": "Emblems/Vila_Nova.png"
+                        },
+                        "score": "X",
+                        "date": "09/06/2025 • 19:00",
+                        "description": "Criciúma e Vila Nova FC se enfrentam pelo(a) Brasileirão Série B, Rodada 11.",
+                        "comments": []
+                    },
+                    {
+                        "championship": "World Cup Qualificação, AFC, Round 3, Gr. C, Rodada 10",
+                        "teamA": {
+                            "name": "Japan",
+                            "emblem": "Emblems/Japao.png"
+                        },
+                        "teamB": {
+                            "name": "Indonesia",
+                            "emblem": "Emblems/Indonesia.png"
+                        },
+                        "score": "X",
+                        "date": "10/06/2025 • 07:35",
+                        "description": "Japan e Indonesia se enfrentam pelo(a) World Cup Qualificação, AFC, Round 3, Gr. C, Rodada 10.",
+                        "comments": []
+                    },
+                    {
+                        "championship": "World Cup Qualificação, AFC, Round 3, Gr. C, Rodada 10",
+                        "teamA": {
+                            "name": "China",
+                            "emblem": "Emblems/China.png"
+                        },
+                        "teamB": {
+                            "name": "Bahrain",
+                            "emblem": "Emblems/Bahrein.png"
+                        },
+                        "score": "X",
+                        "date": "10/06/2025 • 08:00",
+                        "description": "China e Bahrain se enfrentam pelo(a) World Cup Qualificação, AFC, Round 3, Gr. C, Rodada 10.",
+                        "comments": []
+                    },
+                    {
+                        "championship": "AFC Asian Cup, Qualificação Group C, Rodada 2",
+                        "teamA": {
+                            "name": "Hong Kong",
+                            "emblem": "Emblems/Hong_Kong.png"
+                        },
+                        "teamB": {
+                            "name": "India",
+                            "emblem": "Emblems/India.png"
+                        },
+                        "score": "X",
+                        "date": "10/06/2025 • 09:00",
+                        "description": "Hong Kong e India se enfrentam pelo(a) AFC Asian Cup, Qualificação Group C, Rodada 2.",
+                        "comments": []
+                    },
+                    {
+                        "championship": "World Cup Qualificação, AFC, Round 3, Group A, Rodada 10",
+                        "teamA": {
+                            "name": "Iran",
+                            "emblem": "Emblems/Irã.png"
+                        },
+                        "teamB": {
+                            "name": "North Korea",
+                            "emblem": "Emblems/Coreia_do_Norte.png"
+                        },
+                        "score": "X",
+                        "date": "10/06/2025 • 13:00",
+                        "description": "Iran e North Korea se enfrentam pelo(a) World Cup Qualificação, AFC, Round 3, Group A, Rodada 10.",
+                        "comments": []
+                    },
+                    {
+                        "championship": "World Championship Qual. UEFA G, Rodada 4",
+                        "teamA": {
+                            "name": "Finland",
+                            "emblem": "Emblems/Finlandia.png"
+                        },
+                        "teamB": {
+                            "name": "Poland",
+                            "emblem": "Emblems/Polonia.png"
+                        },
+                        "score": "X",
+                        "date": "10/06/2025 • 15:45",
+                        "description": "Finland e Poland se enfrentam pelo(a) World Championship Qual. UEFA G, Rodada 4.",
+                        "comments": []
+                    },
+                    {
+                        "championship": "World Championship Qual. UEFA G, Rodada 4",
+                        "teamA": {
+                            "name": "Netherlands",
+                            "emblem": "Emblems/Holanda.png"
+                        },
+                        "teamB": {
+                            "name": "Malta",
+                            "emblem": "Emblems/Malta.png"
+                        },
+                        "score": "X",
+                        "date": "10/06/2025 • 15:45",
+                        "description": "Netherlands e Malta se enfrentam pelo(a) World Championship Qual. UEFA G, Rodada 4.",
+                        "comments": []
+                    },
+                    {
+                        "championship": "World Championship Qual. UEFA H, Rodada 4",
+                        "teamA": {
+                            "name": "Romania",
+                            "emblem": "Emblems/Romania.png"
+                        },
+                        "teamB": {
+                            "name": "Cyprus",
+                            "emblem": "Emblems/Chipre.png"
+                        },
+                        "score": "X",
+                        "date": "10/06/2025 • 15:45",
+                        "description": "Romania e Cyprus se enfrentam pelo(a) World Championship Qual. UEFA H, Rodada 4.",
+                        "comments": []
+                    },
+                    {
+                        "championship": "World Championship Qual. UEFA K, Rodada 4",
+                        "teamA": {
+                            "name": "Latvia",
+                            "emblem": "Emblems/Letonia.png"
+                        },
+                        "teamB": {
+                            "name": "Albania",
+                            "emblem": "Emblems/Albania.png"
+                        },
+                        "score": "X",
+                        "date": "10/06/2025 • 15:45",
+                        "description": "Latvia e Albania se enfrentam pelo(a) World Championship Qual. UEFA K, Rodada 4.",
+                        "comments": []
+                    },
+                    {
+                        "championship": "World Cup Qualificação, CONCACAF 2nd round, Group A, Rodada 5",
+                        "teamA": {
+                            "name": "Cuba",
+                            "emblem": "Emblems/Cuba.png"
+                        },
+                        "teamB": {
+                            "name": "Bermuda",
+                            "emblem": "Emblems/Bermuda.png"
+                        },
+                        "score": "X",
+                        "date": "10/06/2025 • 17:00",
+                        "description": "Cuba e Bermuda se enfrentam pelo(a) World Cup Qualificação, CONCACAF 2nd round, Group A, Rodada 5.",
+                        "comments": []
+                    },
+                    {
+                        "championship": "World Cup Qualificação, CONCACAF 2nd round, Group E, Rodada 5",
+                        "teamA": {
+                            "name": "Dominican Republic",
+                            "emblem": "Emblems/Republica_Dominicana.png"
+                        },
+                        "teamB": {
+                            "name": "Dominica",
+                            "emblem": "Emblems/Dominica.png"
+                        },
+                        "score": "X",
+                        "date": "10/06/2025 • 20:00",
+                        "description": "Dominican Republic e Dominica se enfrentam pelo(a) World Cup Qualificação, CONCACAF 2nd round, Group E, Rodada 5.",
+                        "comments": []
+                    },
+                    {
+                        "championship": "World Cup Qualificação, CONMEBOL, Rodada 16",
+                        "teamA": {
+                            "name": "Argentina",
+                            "emblem": "Emblems/Argentina.png"
+                        },
+                        "teamB": {
+                            "name": "Colombia",
+                            "emblem": "Emblems/Colombia.png"
+                        },
+                        "score": "X",
+                        "date": "10/06/2025 • 21:00",
+                        "description": "Argentina e Colombia se enfrentam pelo(a) World Cup Qualificação, CONMEBOL, Rodada 16.",
+                        "comments": []
+                    },
+                    {
+                        "championship": "World Cup Qualificação, CONMEBOL, Rodada 16",
+                        "teamA": {
+                            "name": "Brasil",
+                            "emblem": "Emblems/Brazil.png"
+                        },
+                        "teamB": {
+                            "name": "Paraguay",
+                            "emblem": "Emblems/Paraguai.png"
+                        },
+                        "score": "X",
+                        "date": "10/06/2025 • 21:45",
+                        "description": "Brasil e Paraguay se enfrentam pelo(a) World Cup Qualificação, CONMEBOL, Rodada 16.",
+                        "comments": []
+                    },
+                    {
+                        "championship": "World Cup Qualificação, CONMEBOL, Rodada 16",
+                        "teamA": {
+                            "name": "Peru",
+                            "emblem": "Emblems/Peru.png"
+                        },
+                        "teamB": {
+                            "name": "Ecuador",
+                            "emblem": "Emblems/Equador.png"
+                        },
+                        "score": "X",
+                        "date": "10/06/2025 • 22:30",
+                        "description": "Peru e Ecuador se enfrentam pelo(a) World Cup Qualificação, CONMEBOL, Rodada 16.",
+                        "comments": []
+                    },
+                    {
+                        "championship": "Brasileirão Betano, Rodada 12",
+                        "teamA": {
+                            "name": "Fortaleza",
+                            "emblem": "Emblems/Fortaleza.png"
+                        },
+                        "teamB": {
+                            "name": "Santos",
+                            "emblem": "Emblems/Santos.png"
+                        },
+                        "score": "X",
+                        "date": "12/06/2025 • 19:30",
+                        "description": "Fortaleza e Santos se enfrentam pelo(a) Brasileirão Betano, Rodada 12.",
+                        "comments": []
+                    },
+                    {
+                        "championship": "Brasileirão Betano, Rodada 12",
+                        "teamA": {
+                            "name": "Grêmio",
+                            "emblem": "Emblems/Gremio.png"
+                        },
+                        "teamB": {
+                            "name": "Corinthians",
+                            "emblem": "Emblems/Corinthians.png"
+                        },
+                        "score": "X",
+                        "date": "12/06/2025 • 20:00",
+                        "description": "Grêmio e Corinthians se enfrentam pelo(a) Brasileirão Betano, Rodada 12.",
+                        "comments": []
+                    },
+                    {
+                        "championship": "Brasileirão Betano, Rodada 12",
+                        "teamA": {
+                            "name": "Atlético-MG",
+                            "emblem": "Emblems/Atletico_MG.png"
+                        },
+                        "teamB": {
+                            "name": "Internacional",
+                            "emblem": "Emblems/Internacional.png"
+                        },
+                        "score": "X",
+                        "date": "12/06/2025 • 21:30",
+                        "description": "Atlético Mineiro e Internacional se enfrentam pelo(a) Brasileirão Betano, Rodada 12.",
+                        "comments": []
+                    },
+                    {
+                        "championship": "Brasileirão Betano, Rodada 12",
+                        "teamA": {
+                            "name": "São Paulo",
+                            "emblem": "Emblems/Sao_Paulo.png"
+                        },
+                        "teamB": {
+                            "name": "Vasco da Gama",
+                            "emblem": "Emblems/Vasco.png"
+                        },
+                        "score": "X",
+                        "date": "12/06/2025 • 21:30",
+                        "description": "São Paulo e Vasco da Gama se enfrentam pelo(a) Brasileirão Betano, Rodada 12.",
+                        "comments": []
+                    },
+                    {
+                        "championship": "Brasileirão Série B, Rodada 12",
+                        "teamA": {
+                            "name": "Vila Nova FC",
+                            "emblem": "Emblems/Vila_Nova.png"
+                        },
+                        "teamB": {
+                            "name": "América Mineiro",
+                            "emblem": "Emblems/America_MG.png"
+                        },
+                        "score": "X",
+                        "date": "13/06/2025 • 19:00",
+                        "description": "Vila Nova FC e América Mineiro se enfrentam pelo(a) Brasileirão Série B, Rodada 12.",
+                        "comments": []
+                    },
+                    {
+                        "championship": "Brasileirão Série B, Rodada 12",
+                        "teamA": {
+                            "name": "Paysandu SC",
+                            "emblem": "Emblems/Paysandu.png"
+                        },
+                        "teamB": {
+                            "name": "Botafogo-SP",
+                            "emblem": "Emblems/Botafogo_SP.png"
+                        },
+                        "score": "X",
+                        "date": "13/06/2025 • 21:35",
+                        "description": "Paysandu SC e Botafogo-SP se enfrentam pelo(a) Brasileirão Série B, Rodada 12.",
+                        "comments": []
+                    },
+                    {
+                        "championship": "MLS",
+                        "teamA": {
+                            "name": "Los Angeles FC",
+                            "emblem": "Emblems/Los_Angeles.png"
+                        },
+                        "teamB": {
+                            "name": "Toronto FC",
+                            "emblem": "Emblems/Toronto.png"
+                        },
+                        "score": "X",
+                        "date": "13/06/2025 • 23:30",
+                        "description": "Los Angeles FC e Toronto FC se enfrentam pelo(a) MLS.",
+                        "comments": []
+                    },
+                    {
+                        "championship": "Brasileirão Série B, Rodada 12",
+                        "teamA": {
+                            "name": "Athletico",
+                            "emblem": "Emblems/Athletico.png"
+                        },
+                        "teamB": {
+                            "name": "Remo",
+                            "emblem": "Emblems/Remo.png"
+                        },
+                        "score": "X",
+                        "date": "14/06/2025 • 18:30",
+                        "description": "Athletico e Remo se enfrentam pelo(a) Brasileirão Série B, Rodada 12.",
+                        "comments": []
+                    },
+                    {
+                        "championship": "Club World Championship, Grupo A, Rodada 1",
+                        "teamA": {
+                            "name": "Al Ahly FC",
+                            "emblem": "Emblems/Al_Ahly.png"
+                        },
+                        "teamB": {
+                            "name": "Inter Miami CF",
+                            "emblem": "Emblems/Inter_Miami.png"
+                        },
+                        "score": "X",
+                        "date": "14/06/2025 • 21:00",
+                        "description": "Al Ahly FC e Inter Miami CF se enfrentam pelo(a) Club World Championship, Grupo A, Rodada 1.",
+                        "comments": []
+                    }
+                ]
+            },
+            {
+                "weekLabel": "Semana 3 (15/06 - 21/06)",
+                "matches": [
+    {
+        "championship": "Club World Championship, Grupo B, Rodada 1",
+        "teamA": {
+            "name": "Paris Saint-Germain",
+            "emblem": "Emblems/PSG.png"
+        },
+        "teamB": {
+            "name": "Atlético Madrid",
+            "emblem": "Emblems/Atl._Madrid.png"
+        },
+        "score": "X",
+        "date": "15/06/2025 • 16:00",
+        "description": "Paris Saint-Germain e Atlético Madrid se enfrentam pelo(a) Club World Championship, Grupo B, Rodada 1.",
+        "comments": []
+    },
+    {
+        "championship": "Club World Championship, Grupo A, Rodada 1",
+        "teamA": {
+            "name": "Palmeiras",
+            "emblem": "Emblems/Palmeiras.png"
+        },
+        "teamB": {
+            "name": "FC Porto",
+            "emblem": "Emblems/Porto.png"
+        },
+        "score": "X",
+        "date": "15/06/2025 • 18:00",
+        "description": "Palmeiras e FC Porto se enfrentam pelo(a) Club World Championship, Grupo A, Rodada 1.",
+        "comments": []
+    },
+    {
+        "championship": "Club World Championship, Grupo B, Rodada 1",
+        "teamA": {
+            "name": "Botafogo",
+            "emblem": "Emblems/Botafogo.png"
+        },
+        "teamB": {
+            "name": "Seattle Sounders FC",
+            "emblem": "Emblems/Seattle.png"
+        },
+        "score": "X",
+        "date": "15/06/2025 • 23:00",
+        "description": "Botafogo e Seattle Sounders FC se enfrentam pelo(a) Club World Championship, Grupo B, Rodada 1.",
+        "comments": []
+    },
+    {
+        "championship": "Brasileirão Série B, Rodada 12",
+        "teamA": {
+            "name": "Chapecoense",
+            "emblem": "Emblems/Chapecoense.png"
+        },
+        "teamB": {
+            "name": "Ferroviária",
+            "emblem": "Emblems/Ferroviaria.png"
+        },
+        "score": "X",
+        "date": "16/06/2025 • 19:00",
+        "description": "Chapecoense e Ferroviária se enfrentam pelo(a) Brasileirão Série B, Rodada 12.",
+        "comments": []
+    },
+    {
+        "championship": "Club World Championship, Grupo C, Rodada 1",
+        "teamA": {
+            "name": "Boca Juniors",
+            "emblem": "Emblems/Boca_Juniors.png"
+        },
+        "teamB": {
+            "name": "Benfica",
+            "emblem": "Emblems/Benfica.png"
+        },
+        "score": "X",
+        "date": "16/06/2025 • 19:00",
+        "description": "Boca Juniors e Benfica se enfrentam pelo(a) Club World Championship, Grupo C, Rodada 1.",
+        "comments": []
+    },
+    {
+        "championship": "Club World Championship, Grupo D, Rodada 1",
+        "teamA": {
+            "name": "Flamengo",
+            "emblem": "Emblems/Flamengo.png"
+        },
+        "teamB": {
+            "name": "Espérance Tunis",
+            "emblem": "Emblems/Espérance.png"
+        },
+        "score": "X",
+        "date": "16/06/2025 • 22:00",
+        "description": "Flamengo e Espérance Tunis se enfrentam pelo(a) Club World Championship, Grupo D, Rodada 1.",
+        "comments": []
+    },
+    {
+        "championship": "Brasileirão Série B, Rodada 12",
+        "teamA": {
+            "name": "Criciúma",
+            "emblem": "Emblems/Criciuma.png"
+        },
+        "teamB": {
+            "name": "Amazonas FC",
+            "emblem": "Emblems/Amazonas.png"
+        },
+        "score": "X",
+        "date": "17/06/2025 • 15:00",
+        "description": "Criciúma e Amazonas FC se enfrentam pelo(a) Brasileirão Série B, Rodada 12.",
+        "comments": []
+    },
+    {
+        "championship": "Brasileirão Série B, Rodada 12",
+        "teamA": {
+            "name": "Novorizontino",
+            "emblem": "Emblems/Novorizontino.png"
+        },
+        "teamB": {
+            "name": "Cuiabá",
+            "emblem": "Emblems/Cuiaba.png"
+        },
+        "score": "X",
+        "date": "17/06/2025 • 15:00",
+        "description": "Novorizontino e Cuiabá se enfrentam pelo(a) Brasileirão Série B, Rodada 12.",
+        "comments": []
+    },
+    {
+        "championship": "Club World Championship, Grupo E, Rodada 1",
+        "teamA": {
+            "name": "River Plate",
+            "emblem": "Emblems/River_Plate.png"
+        },
+        "teamB": {
+            "name": "Urawa Red Diamonds",
+            "emblem": "Emblems/Urawa_Reds.png"
+        },
+        "score": "X",
+        "date": "17/06/2025 • 16:00",
+        "description": "River Plate e Urawa Red Diamonds se enfrentam pelo(a) Club World Championship, Grupo E, Rodada 1.",
+        "comments": []
+    },
+    {
+        "championship": "Brasileirão Série B, Rodada 12",
+        "teamA": {
+            "name": "Volta Redonda",
+            "emblem": "Emblems/Volta_Redonda.png"
+        },
+        "teamB": {
+            "name": "Avaí",
+            "emblem": "Emblems/Avai.png"
+        },
+        "score": "X",
+        "date": "17/06/2025 • 19:30",
+        "description": "Volta Redonda e Avaí se enfrentam pelo(a) Brasileirão Série B, Rodada 12.",
+        "comments": []
+    },
+    {
+        "championship": "Club World Championship, Grupo E, Rodada 1",
+        "teamA": {
+            "name": "CF Monterrey",
+            "emblem": "Emblems/Monterrey.png"
+        },
+        "teamB": {
+            "name": "Inter",
+            "emblem": "Emblems/Inter.png"
+        },
+        "score": "X",
+        "date": "17/06/2025 • 22:00",
+        "description": "CF Monterrey e Inter se enfrentam pelo(a) Club World Championship, Grupo E, Rodada 1.",
+        "comments": []
+    },
+    {
+        "championship": "Club World Championship, Grupo G, Rodada 1",
+        "teamA": {
+            "name": "Manchester City",
+            "emblem": "Emblems/Man_City.png"
+        },
+        "teamB": {
+            "name": "Wydad Casablanca",
+            "emblem": "Emblems/WAC.png"
+        },
+        "score": "X",
+        "date": "18/06/2025 • 13:00",
+        "description": "Manchester City e Wydad Casablanca se enfrentam pelo(a) Club World Championship, Grupo G, Rodada 1.",
+        "comments": []
+    },
+    {
+        "championship": "Club World Championship, Grupo H, Rodada 1",
+        "teamA": {
+            "name": "Real Madrid",
+            "emblem": "Emblems/Real_Madrid.png"
+        },
+        "teamB": {
+            "name": "Al-Hilal",
+            "emblem": "Emblems/Al-Hilal.png"
+        },
+        "score": "X",
+        "date": "18/06/2025 • 16:00",
+        "description": "Real Madrid e Al-Hilal se enfrentam pelo(a) Club World Championship, Grupo H, Rodada 1.",
+        "comments": []
+    },
+    {
+        "championship": "Club World Championship, Grupo H, Rodada 1",
+        "teamA": {
+            "name": "CF Pachuca",
+            "emblem": "Emblems/Pachuca.png"
+        },
+        "teamB": {
+            "name": "Red Bull Salzburg",
+            "emblem": "Emblems/RB_Salzburg.png"
+        },
+        "score": "X",
+        "date": "18/06/2025 • 19:00",
+        "description": "CF Pachuca e Red Bull Salzburg se enfrentam pelo(a) Club World Championship, Grupo H, Rodada 1.",
+        "comments": []
+    },
+    {
+        "championship": "Club World Championship, Grupo G, Rodada 1",
+        "teamA": {
+            "name": "Al-Ain",
+            "emblem": "Emblems/Al-Ain.png"
+        },
+        "teamB": {
+            "name": "Juventus",
+            "emblem": "Emblems/Juventus.png"
+        },
+        "score": "X",
+        "date": "18/06/2025 • 22:00",
+        "description": "Al-Ain e Juventus se enfrentam pelo(a) Club World Championship, Grupo G, Rodada 1.",
+        "comments": []
+    },
+    {
+        "championship": "Club World Championship, Grupo A, Rodada 2",
+        "teamA": {
+            "name": "Palmeiras",
+            "emblem": "Emblems/Palmeiras.png"
+        },
+        "teamB": {
+            "name": "Al Ahly FC",
+            "emblem": "Emblems/Al_Ahly.png"
+        },
+        "score": "X",
+        "date": "19/06/2025 • 13:00",
+        "description": "Palmeiras e Al Ahly FC se enfrentam pelo(a) Club World Championship, Grupo A, Rodada 2.",
+        "comments": []
+    },
+    {
+        "championship": "Club World Championship, Grupo A, Rodada 2",
+        "teamA": {
+            "name": "Inter Miami CF",
+            "emblem": "Emblems/Inter_Miami.png"
+        },
+        "teamB": {
+            "name": "FC Porto",
+            "emblem": "Emblems/Porto.png"
+        },
+        "score": "X",
+        "date": "19/06/2025 • 16:00",
+        "description": "Inter Miami CF e FC Porto se enfrentam pelo(a) Club World Championship, Grupo A, Rodada 2.",
+        "comments": []
+    },
+    {
+        "championship": "Club World Championship, Grupo B, Rodada 2",
+        "teamA": {
+            "name": "Seattle Sounders FC",
+            "emblem": "Emblems/Seattle.png"
+        },
+        "teamB": {
+            "name": "Atlético Madrid",
+            "emblem": "Emblems/Atl._Madrid.png"
+        },
+        "score": "X",
+        "date": "19/06/2025 • 19:00",
+        "description": "Seattle Sounders FC e Atlético Madrid se enfrentam pelo(a) Club World Championship, Grupo B, Rodada 2.",
+        "comments": []
+    },
+    {
+        "championship": "Club World Championship, Grupo B, Rodada 2",
+        "teamA": {
+            "name": "Paris Saint-Germain",
+            "emblem": "Emblems/PSG.png"
+        },
+        "teamB": {
+            "name": "Botafogo",
+            "emblem": "Emblems/Botafogo.png"
+        },
+        "score": "X",
+        "date": "19/06/2025 • 22:00",
+        "description": "Paris Saint-Germain e Botafogo se enfrentam pelo(a) Club World Championship, Grupo B, Rodada 2.",
+        "comments": []
+    },
+    {
+        "championship": "CONCACAF Gold Cup, Grupo D, Rodada 2",
+        "teamA": {
+            "name": "Saudi Arabia",
+            "emblem": "Emblems/Arabia_Saudita.png"
+        },
+        "teamB": {
+            "name": "USA",
+            "emblem": "Emblems/EUA.png"
+        },
+        "score": "X",
+        "date": "19/06/2025 • 22:15",
+        "description": "Saudi Arabia e USA se enfrentam pelo(a) CONCACAF Gold Cup, Grupo D, Rodada 2.",
+        "comments": []
+    },
+    {
+        "championship": "Club World Championship, Grupo C, Rodada 2",
+        "teamA": {
+            "name": "Benfica",
+            "emblem": "Emblems/Benfica.png"
+        },
+        "teamB": {
+            "name": "Auckland City",
+            "emblem": "Emblems/Auckland_City.png"
+        },
+        "score": "X",
+        "date": "20/06/2025 • 13:00",
+        "description": "Benfica e Auckland City se enfrentam pelo(a) Club World Championship, Grupo C, Rodada 2.",
+        "comments": []
+    },
+    {
+        "championship": "Club World Championship, Grupo D, Rodada 2",
+        "teamA": {
+            "name": "Flamengo",
+            "emblem": "Emblems/Flamengo.png"
+        },
+        "teamB": {
+            "name": "Chelsea",
+            "emblem": "Emblems/Chelsea.png"
+        },
+        "score": "X",
+        "date": "20/06/2025 • 15:00",
+        "description": "Flamengo e Chelsea se enfrentam pelo(a) Club World Championship, Grupo D, Rodada 2.",
+        "comments": []
+    },
+    {
+        "championship": "Brasileirão Série B, Rodada 13",
+        "teamA": {
+            "name": "América Mineiro",
+            "emblem": "Emblems/America_MG.png"
+        },
+        "teamB": {
+            "name": "Criciúma",
+            "emblem": "Emblems/Criciuma.png"
+        },
+        "score": "X",
+        "date": "20/06/2025 • 21:35",
+        "description": "América Mineiro e Criciúma se enfrentam pelo(a) Brasileirão Série B, Rodada 13.",
+        "comments": []
+    },
+    {
+        "championship": "Club World Championship, Grupo C, Rodada 2",
+        "teamA": {
+            "name": "FC Bayern München",
+            "emblem": "Emblems/Bayern.png"
+        },
+        "teamB": {
+            "name": "Boca Juniors",
+            "emblem": "Emblems/Boca_Juniors.png"
+        },
+        "score": "X",
+        "date": "20/06/2025 • 22:00",
+        "description": "FC Bayern München e Boca Juniors se enfrentam pelo(a) Club World Championship, Grupo C, Rodada 2.",
+        "comments": []
+    },
+    {
+        "championship": "Club World Championship, Grupo E, Rodada 2",
+        "teamA": {
+            "name": "Inter",
+            "emblem": "Emblems/Inter.png"
+        },
+        "teamB": {
+            "name": "Urawa Red Diamonds",
+            "emblem": "Emblems/Urawa_Reds.png"
+        },
+        "score": "X",
+        "date": "21/06/2025 • 16:00",
+        "description": "Inter e Urawa Red Diamonds se enfrentam pelo(a) Club World Championship, Grupo E, Rodada 2.",
+        "comments": []
+    },
+    {
+        "championship": "Brasileirão Série B, Rodada 13",
+        "teamA": {
+            "name": "Avaí",
+            "emblem": "Emblems/Avai.png"
+        },
+        "teamB": {
+            "name": "Athletico",
+            "emblem": "Emblems/Athletico.png"
+        },
+        "score": "X",
+        "date": "21/06/2025 • 16:00",
+        "description": "Avaí e Athletico se enfrentam pelo(a) Brasileirão Série B, Rodada 13.",
+        "comments": []
+    },
+    {
+        "championship": "Brasileirão Série B, Rodada 13",
+        "teamA": {
+            "name": "Remo",
+            "emblem": "Emblems/Remo.png"
+        },
+        "teamB": {
+            "name": "Paysandu SC",
+            "emblem": "Emblems/Paysandu.png"
+        },
+        "score": "X",
+        "date": "21/06/2025 • 18:30",
+        "description": "Remo e Paysandu SC se enfrentam pelo(a) Brasileirão Série B, Rodada 13.",
+        "comments": []
+    },
+    {
+        "championship": "CONCACAF Gold Cup, Grupo B, Rodada 2",
+        "teamA": {
+            "name": "Curaçao",
+            "emblem": "Emblems/Curaçao.png"
+        },
+        "teamB": {
+            "name": "Canada",
+            "emblem": "Emblems/Canada.png"
+        },
+        "score": "X",
+        "date": "21/06/2025 • 20:00",
+        "description": "Curaçao e Canada se enfrentam pelo(a) CONCACAF Gold Cup, Grupo B, Rodada 2.",
+        "comments": []
+    },
+    {
+        "championship": "Club World Championship, Grupo E, Rodada 2",
+        "teamA": {
+            "name": "River Plate",
+            "emblem": "Emblems/River_Plate.png"
+        },
+        "teamB": {
+            "name": "CF Monterrey",
+            "emblem": "Emblems/Monterrey.png"
+        },
+        "score": "X",
+        "date": "21/06/2025 • 22:00",
+        "description": "River Plate e CF Monterrey se enfrentam pelo(a) Club World Championship, Grupo E, Rodada 2.",
+        "comments": []
+    }
+]
+            },
+            {
+                "weekLabel": "Semana 4 (22/06 - 30/06)",
+                "matches": [
+    {
+        "championship": "Club World Championship, Grupo G, Rodada 2",
+        "teamA": {
+            "name": "Juventus",
+            "emblem": "Emblems/Juventus.png"
+        },
+        "teamB": {
+            "name": "Wydad Casablanca",
+            "emblem": "Emblems/WAC.png"
+        },
+        "score": "X",
+        "date": "22/06/2025 • 13:00",
+        "description": "Juventus e Wydad Casablanca se enfrentam pelo(a) Club World Championship, Grupo G, Rodada 2.",
+        "comments": []
+    },
+    {
+        "championship": "Club World Championship, Grupo H, Rodada 2",
+        "teamA": {
+            "name": "Real Madrid",
+            "emblem": "Emblems/Real_Madrid.png"
+        },
+        "teamB": {
+            "name": "CF Pachuca",
+            "emblem": "Emblems/Pachuca.png"
+        },
+        "score": "X",
+        "date": "22/06/2025 • 16:00",
+        "description": "Real Madrid e CF Pachuca se enfrentam pelo(a) Club World Championship, Grupo H, Rodada 2.",
+        "comments": []
+    },
+    {
+        "championship": "Brasileirão Série B, Rodada 13",
+        "teamA": {
+            "name": "Coritiba",
+            "emblem": "Emblems/Coritiba.png"
+        },
+        "teamB": {
+            "name": "Cuiabá",
+            "emblem": "Emblems/Cuiaba.png"
+        },
+        "score": "X",
+        "date": "22/06/2025 • 16:00",
+        "description": "Coritiba e Cuiabá se enfrentam pelo(a) Brasileirão Série B, Rodada 13.",
+        "comments": []
+    },
+    {
+        "championship": "Club World Championship, Grupo H, Rodada 2",
+        "teamA": {
+            "name": "Red Bull Salzburg",
+            "emblem": "Emblems/RB_Salzburg.png"
+        },
+        "teamB": {
+            "name": "Al-Hilal",
+            "emblem": "Emblems/Al-Hilal.png"
+        },
+        "score": "X",
+        "date": "22/06/2025 • 19:00",
+        "description": "Red Bull Salzburg e Al-Hilal se enfrentam pelo(a) Club World Championship, Grupo H, Rodada 2.",
+        "comments": []
+    },
+    {
+        "championship": "Club World Championship, Grupo G, Rodada 2",
+        "teamA": {
+            "name": "Manchester City",
+            "emblem": "Emblems/Man_City.png"
+        },
+        "teamB": {
+            "name": "Al-Ain",
+            "emblem": "Emblems/Al-Ain.png"
+        },
+        "score": "X",
+        "date": "22/06/2025 • 22:00",
+        "description": "Manchester City e Al-Ain se enfrentam pelo(a) Club World Championship, Grupo G, Rodada 2.",
+        "comments": []
+    },
+    {
+        "championship": "Club World Championship, Grupo B, Rodada 3",
+        "teamA": {
+            "name": "Atlético Madrid",
+            "emblem": "Emblems/Atl._Madrid.png"
+        },
+        "teamB": {
+            "name": "Botafogo",
+            "emblem": "Emblems/Botafogo.png"
+        },
+        "score": "X",
+        "date": "23/06/2025 • 16:00",
+        "description": "Atlético Madrid e Botafogo se enfrentam pelo(a) Club World Championship, Grupo B, Rodada 3.",
+        "comments": []
+    },
+    {
+        "championship": "Club World Championship, Grupo B, Rodada 3",
+        "teamA": {
+            "name": "Seattle Sounders FC",
+            "emblem": "Emblems/Seattle.png"
+        },
+        "teamB": {
+            "name": "Paris Saint-Germain",
+            "emblem": "Emblems/PSG.png"
+        },
+        "score": "X",
+        "date": "23/06/2025 • 16:00",
+        "description": "Seattle Sounders FC e Paris Saint-Germain se enfrentam pelo(a) Club World Championship, Grupo B, Rodada 3.",
+        "comments": []
+    },
+    {
+        "championship": "Club World Championship, Grupo A, Rodada 3",
+        "teamA": {
+            "name": "Inter Miami CF",
+            "emblem": "Emblems/Inter_Miami.png"
+        },
+        "teamB": {
+            "name": "Palmeiras",
+            "emblem": "Emblems/Palmeiras.png"
+        },
+        "score": "X",
+        "date": "23/06/2025 • 22:00",
+        "description": "Inter Miami CF e Palmeiras se enfrentam pelo(a) Club World Championship, Grupo A, Rodada 3.",
+        "comments": []
+    },
+    {
+        "championship": "Club World Championship, Grupo A, Rodada 3",
+        "teamA": {
+            "name": "FC Porto",
+            "emblem": "Emblems/Porto.png"
+        },
+        "teamB": {
+            "name": "Al Ahly FC",
+            "emblem": "Emblems/Al_Ahly.png"
+        },
+        "score": "X",
+        "date": "23/06/2025 • 22:00",
+        "description": "FC Porto e Al Ahly FC se enfrentam pelo(a) Club World Championship, Grupo A, Rodada 3.",
+        "comments": []
+    },
+    {
+        "championship": "Club World Championship, Grupo C, Rodada 3",
+        "teamA": {
+            "name": "Auckland City",
+            "emblem": "Emblems/Auckland_City.png"
+        },
+        "teamB": {
+            "name": "Boca Juniors",
+            "emblem": "Emblems/Boca_Juniors.png"
+        },
+        "score": "X",
+        "date": "24/06/2025 • 16:00",
+        "description": "Auckland City e Boca Juniors se enfrentam pelo(a) Club World Championship, Grupo C, Rodada 3.",
+        "comments": []
+    },
+    {
+        "championship": "Club World Championship, Grupo C, Rodada 3",
+        "teamA": {
+            "name": "Benfica",
+            "emblem": "Emblems/Benfica.png"
+        },
+        "teamB": {
+            "name": "FC Bayern München",
+            "emblem": "Emblems/Bayern.png"
+        },
+        "score": "X",
+        "date": "24/06/2025 • 16:00",
+        "description": "Benfica e FC Bayern München se enfrentam pelo(a) Club World Championship, Grupo C, Rodada 3.",
+        "comments": []
+    },
+    {
+        "championship": "CONCACAF Gold Cup, Grupo C, Rodada 3",
+        "teamA": {
+            "name": "Panama",
+            "emblem": "Emblems/Panamá.png"
+        },
+        "teamB": {
+            "name": "Jamaica",
+            "emblem": "Emblems/Jamaica.png"
+        },
+        "score": "X",
+        "date": "24/06/2025 • 20:00",
+        "description": "Panama e Jamaica se enfrentam pelo(a) CONCACAF Gold Cup, Grupo C, Rodada 3.",
+        "comments": []
+    },
+    {
+        "championship": "Club World Championship, Grupo D, Rodada 3",
+        "teamA": {
+            "name": "Espérance Tunis",
+            "emblem": "Emblems/Espérance.png"
+        },
+        "teamB": {
+            "name": "Chelsea",
+            "emblem": "Emblems/Chelsea.png"
+        },
+        "score": "X",
+        "date": "24/06/2025 • 22:00",
+        "description": "Espérance Tunis e Chelsea se enfrentam pelo(a) Club World Championship, Grupo D, Rodada 3.",
+        "comments": []
+    },
+    {
+        "championship": "CONCACAF Gold Cup, Grupo B, Rodada 3",
+        "teamA": {
+            "name": "Canada",
+            "emblem": "Emblems/Canada.png"
+        },
+        "teamB": {
+            "name": "El Salvador",
+            "emblem": "Emblems/El_Salvador.png"
+        },
+        "score": "X",
+        "date": "24/06/2025 • 23:00",
+        "description": "Canada e El Salvador se enfrentam pelo(a) CONCACAF Gold Cup, Grupo B, Rodada 3.",
+        "comments": []
+    },
+    {
+        "championship": "Club World Championship, Grupo F, Rodada 3",
+        "teamA": {
+            "name": "Mamelodi Sundowns",
+            "emblem": "Emblems/Sundowns.png"
+        },
+        "teamB": {
+            "name": "Fluminense",
+            "emblem": "Emblems/Fluminense.png"
+        },
+        "score": "X",
+        "date": "25/06/2025 • 16:00",
+        "description": "Mamelodi Sundowns e Fluminense se enfrentam pelo(a) Club World Championship, Grupo F, Rodada 3.",
+        "comments": []
+    },
+    {
+        "championship": "Club World Championship, Grupo E, Rodada 3",
+        "teamA": {
+            "name": "Inter",
+            "emblem": "Emblems/Inter.png"
+        },
+        "teamB": {
+            "name": "River Plate",
+            "emblem": "Emblems/River_Plate.png"
+        },
+        "score": "X",
+        "date": "25/06/2025 • 22:00",
+        "description": "Inter e River Plate se enfrentam pelo(a) Club World Championship, Grupo E, Rodada 3.",
+        "comments": []
+    },
+    {
+        "championship": "Club World Championship, Grupo G, Rodada 3",
+        "teamA": {
+            "name": "Juventus",
+            "emblem": "Emblems/Juventus.png"
+        },
+        "teamB": {
+            "name": "Manchester City",
+            "emblem": "Emblems/Man_City.png"
+        },
+        "score": "X",
+        "date": "26/06/2025 • 16:00",
+        "description": "Juventus e Manchester City se enfrentam pelo(a) Club World Championship, Grupo G, Rodada 3.",
+        "comments": []
+    },
+    {
+        "championship": "Brasileirão Série B, Rodada 14",
+        "teamA": {
+            "name": "CRB",
+            "emblem": "Emblems/CRB.png"
+        },
+        "teamB": {
+            "name": "América Mineiro",
+            "emblem": "Emblems/America_MG.png"
+        },
+        "score": "X",
+        "date": "26/06/2025 • 21:35",
+        "description": "CRB e América Mineiro se enfrentam pelo(a) Brasileirão Série B, Rodada 14.",
+        "comments": []
+    },
+    {
+        "championship": "Club World Championship, Grupo H, Rodada 3",
+        "teamA": {
+            "name": "Al-Hilal",
+            "emblem": "Emblems/Al-Hilal.png"
+        },
+        "teamB": {
+            "name": "CF Pachuca",
+            "emblem": "Emblems/Pachuca.png"
+        },
+        "score": "X",
+        "date": "26/06/2025 • 22:00",
+        "description": "Al-Hilal e CF Pachuca se enfrentam pelo(a) Club World Championship, Grupo H, Rodada 3.",
+        "comments": []
+    },
+    {
+        "championship": "Club World Championship, Grupo H, Rodada 3",
+        "teamA": {
+            "name": "Red Bull Salzburg",
+            "emblem": "Emblems/RB_Salzburg.png"
+        },
+        "teamB": {
+            "name": "Real Madrid",
+            "emblem": "Emblems/Real_Madrid.png"
+        },
+        "score": "X",
+        "date": "26/06/2025 • 22:00",
+        "description": "Red Bull Salzburg e Real Madrid se enfrentam pelo(a) Club World Championship, Grupo H, Rodada 3.",
+        "comments": []
+    },
+    {
+        "championship": "Brasileirão Série B, Rodada 14",
+        "teamA": {
+            "name": "Criciúma",
+            "emblem": "Emblems/Criciuma.png"
+        },
+        "teamB": {
+            "name": "Avaí",
+            "emblem": "Emblems/Avai.png"
+        },
+        "score": "X",
+        "date": "27/06/2025 • 19:00",
+        "description": "Criciúma e Avaí se enfrentam pelo(a) Brasileirão Série B, Rodada 14.",
+        "comments": []
+    },
+    {
+        "championship": "Brasileirão Série B, Rodada 14",
+        "teamA": {
+            "name": "Cuiabá",
+            "emblem": "Emblems/Cuiaba.png"
+        },
+        "teamB": {
+            "name": "Botafogo-SP",
+            "emblem": "Emblems/Botafogo_SP.png"
+        },
+        "score": "X",
+        "date": "28/06/2025 • 15:00",
+        "description": "Cuiabá e Botafogo-SP se enfrentam pelo(a) Brasileirão Série B, Rodada 14.",
+        "comments": []
+    },
+    {
+        "championship": "Brasileirão Série B, Rodada 14",
+        "teamA": {
+            "name": "Vila Nova FC",
+            "emblem": "Emblems/Vila_Nova.png"
+        },
+        "teamB": {
+            "name": "Atlético Goianiense",
+            "emblem": "Emblems/Atletico_GO.png"
+        },
+        "score": "X",
+        "date": "28/06/2025 • 16:00",
+        "description": "Vila Nova FC e Atlético Goianiense se enfrentam pelo(a) Brasileirão Série B, Rodada 14.",
+        "comments": []
+    },
+    {
+        "championship": "Brasileirão Série B, Rodada 14",
+        "teamA": {
+            "name": "Athletico",
+            "emblem": "Emblems/Athletico.png"
+        },
+        "teamB": {
+            "name": "Coritiba",
+            "emblem": "Emblems/Coritiba.png"
+        },
+        "score": "X",
+        "date": "28/06/2025 • 18:30",
+        "description": "Athletico e Coritiba se enfrentam pelo(a) Brasileirão Série B, Rodada 14.",
+        "comments": []
+    },
+    {
+        "championship": "MLS",
+        "teamA": {
+            "name": "Inter Miami CF",
+            "emblem": "Emblems/Inter_Miami.png"
+        },
+        "teamB": {
+            "name": "Atlanta United",
+            "emblem": "Emblems/Atlanta.png"
+        },
+        "score": "X",
+        "date": "28/06/2025 • 20:30",
+        "description": "Inter Miami CF e Atlanta United se enfrentam pelo(a) MLS.",
+        "comments": []
+    },
+    {
+        "championship": "MLS",
+        "teamA": {
+            "name": "Seattle Sounders FC",
+            "emblem": "Emblems/Seattle.png"
+        },
+        "teamB": {
+            "name": "Austin FC",
+            "emblem": "Emblems/Austin.png"
+        },
+        "score": "X",
+        "date": "28/06/2025 • 23:30",
+        "description": "Seattle Sounders FC e Austin FC se enfrentam pelo(a) MLS.",
+        "comments": []
+    },
+    {
+        "championship": "Brasileirão Série B, Rodada 14",
+        "teamA": {
+            "name": "Athletic Club",
+            "emblem": "Emblems/Athletic.png"
+        },
+        "teamB": {
+            "name": "Remo",
+            "emblem": "Emblems/Remo.png"
+        },
+        "score": "X",
+        "date": "29/06/2025 • 16:00",
+        "description": "Athletic Club e Remo se enfrentam pelo(a) Brasileirão Série B, Rodada 14.",
+        "comments": []
+    },
+    {
+        "championship": "Brasileirão Série B, Rodada 14",
+        "teamA": {
+            "name": "Chapecoense",
+            "emblem": "Emblems/Chapecoense.png"
+        },
+        "teamB": {
+            "name": "Goiás",
+            "emblem": "Emblems/Goiás.png"
+        },
+        "score": "X",
+        "date": "29/06/2025 • 19:00",
+        "description": "Chapecoense e Goiás se enfrentam pelo(a) Brasileirão Série B, Rodada 14.",
+        "comments": []
+    },
+    {
+        "championship": "Brasileirão Série B, Rodada 14",
+        "teamA": {
+            "name": "Novorizontino",
+            "emblem": "Emblems/Novorizontino.png"
+        },
+        "teamB": {
+            "name": "Amazonas FC",
+            "emblem": "Emblems/Amazonas.png"
+        },
+        "score": "X",
+        "date": "29/06/2025 • 19:00",
+        "description": "Novorizontino e Amazonas FC se enfrentam pelo(a) Brasileirão Série B, Rodada 14.",
+        "comments": []
+    },
+    {
+        "championship": "LigaPro Serie A, Primera Etapa, Rodada 18",
+        "teamA": {
+            "name": "Macará",
+            "emblem": "Emblems/Macará.png"
+        },
+        "teamB": {
+            "name": "Emelec",
+            "emblem": "Emblems/Emelec.png"
+        },
+        "score": "X",
+        "date": "30/06/2025 • 00:00",
+        "description": "Macará e Emelec se enfrentam pelo(a) LigaPro Serie A, Primera Etapa, Rodada 18.",
+        "comments": []
+    },
+    {
+        "championship": "LigaPro Serie A, Primera Etapa, Rodada 18",
+        "teamA": {
+            "name": "Técnico Universitario",
+            "emblem": "Emblems/Técnico.png"
+        },
+        "teamB": {
+            "name": "El Nacional",
+            "emblem": "Emblems/El_Nacional.png"
+        },
+        "score": "X",
+        "date": "30/06/2025 • 00:00",
+        "description": "Técnico Universitario e El Nacional se enfrentam pelo(a) LigaPro Serie A, Primera Etapa, Rodada 18.",
+        "comments": []
+    },
+    {
+        "championship": "LigaPro Serie A, Primera Etapa, Rodada 18",
+        "teamA": {
+            "name": "Universidad Católica del Ecuador",
+            "emblem": "Emblems/Universidad_Católica.png"
+        },
+        "teamB": {
+            "name": "Independiente Del Valle",
+            "emblem": "Emblems/Ind._Del_Valle.png"
+        },
+        "score": "X",
+        "date": "30/06/2025 • 00:00",
+        "description": "Universidad Católica del Ecuador e Independiente Del Valle se enfrentam pelo(a) LigaPro Serie A, Primera Etapa, Rodada 18.",
+        "comments": []
+    },
+    {
+        "championship": "Brasileirão Série B, Rodada 14",
+        "teamA": {
+            "name": "Paysandu SC",
+            "emblem": "Emblems/Paysandu.png"
+        },
+        "teamB": {
+            "name": "Ferroviária",
+            "emblem": "Emblems/Ferroviaria.png"
+        },
+        "score": "X",
+        "date": "30/06/2025 • 19:00",
+        "description": "Paysandu SC e Ferroviária se enfrentam pelo(a) Brasileirão Série B, Rodada 14.",
+        "comments": []
+    }
+]
+            }
+        ],
+        "Julho": [
+            {
+                "weekLabel": "Semana 1 (01/07 - 07/07)",
+                "matches": []
+            },
+            {
+                "weekLabel": "Semana 2 (08/07 - 14/07)",
+                "matches": []
+            },
+            {
+                "weekLabel": "Semana 3 (15/07 - 21/07)",
+                "matches": []
+            },
+            {
+                "weekLabel": "Semana 4 (22/07 - 28/07)",
+                "matches": []
+            }
+        ],
+        "Agosto": [
+            {
+                "weekLabel": "Semana 1 (01/08 - 07/08)",
+                "matches": []
+            },
+            {
+                "weekLabel": "Semana 2 (08/08 - 14/08)",
+                "matches": []
+            },
+            {
+                "weekLabel": "Semana 3 (15/08 - 21/08)",
+                "matches": []
+            },
+            {
+                "weekLabel": "Semana 4 (22/08 - 28/08)",
+                "matches": []
+            }
+        ]
+    }
+}

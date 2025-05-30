@@ -1,0 +1,357 @@
+{
+    "carouselData": [
+        {
+            "imgSrc": "tenis img/sinnerxrinderknech.webp",
+            "alt": "Jogo de Tênis",
+            "categoryTag": "French Open",
+            "title": "J. Sinner vs. A. Rinderknech",
+            "description": "Sinner, nº 1 do mundo, enfrenta Rinderknech nos 64avos do French Open!"
+        },
+        {
+            "imgSrc": "tenis img/zeppierixalcaraz.webp",
+            "alt": "Jogo de Tênis",
+            "categoryTag": "French Open",
+            "title": "G. Zeppieri vs. C. Alcaraz",
+            "description": "Zeppieri desafia Alcaraz, nº 2 do mundo, em um duelo nos 64avos do French Open!"
+        },
+        {
+            "imgSrc": "tenis img/sramkovaxswiatek.webp",
+            "alt": "Jogo de Tênis",
+            "categoryTag": "French Open",
+            "title": "R. Sramkova vs. I. Swiatek",
+            "description": "Sramkova enfrenta Swiatek, nº 5 do mundo, nos 64avos do French Open!"
+        },
+        {
+            "imgSrc": "tenis img/hurkaczxfonseca.webp",
+            "alt": "Jogo de Tênis",
+            "categoryTag": "French Open",
+            "title": "H. Hurkacz vs. J. Fonseca",
+            "description": "Fonseca, promessa brasileira, desafia Hurkacz nos 64avos do French Open!"
+        },
+        {
+            "imgSrc": "tenis img/sabalenkaxtiechmann.webp",
+            "alt": "Jogo de Tênis",
+            "categoryTag": "French Open",
+            "title": "A. Sabalenka vs. J. Teichmann",
+            "description": "Sabalenka, nº 1 do mundo, enfrenta Teichmann nos 32avos do French Open!"
+        }
+    ],
+    "matchesData": {
+        "Junho": [
+            {
+                "weekLabel": "Semana 1 (01/06 - 07/06)",
+                "matches": [
+                    {
+                        "championship": "French Open, Paris, France, 64Avos-de-final",
+                        "teamA": { "name": "Casper Ruud", "emblem": "Emblems/Norway.png", "rank": "ATP 8" },
+                        "teamB": { "name": "Albert Ramos-Vinolas", "emblem": "Emblems/Spain.png", "rank": "ATP 251" },
+                        "score": "X",
+                        "date": "01/06/2025 • 06:00",
+                        "description": "Ruud enfrenta Ramos-Vinolas nos 64avos do French Open!",
+                        "comments": [
+                            "Ruud tá muito sólido no saibro, Ramos-Vinolas vai ter que jogar no limite!",
+                            "Acho que o Ruud fecha em 3 sets, Ramos não tá no melhor momento.",
+                            "Ramos-Vinolas pode surpreender se forçar longas trocas de bola."
+                        ]
+                    },
+                    {
+                        "championship": "French Open, Paris, France, 64Avos-de-final",
+                        "teamA": { "name": "Rebecca Sramkova", "emblem": "Emblems/Slovakia.png", "rank": "WTA 42" },
+                        "teamB": { "name": "Iga Swiatek", "emblem": "Emblems/Poland.png", "rank": "WTA 5" },
+                        "score": "X",
+                        "date": "01/06/2025 • 07:00",
+                        "description": "Sramkova enfrenta Swiatek em um duelo nos 64avos do French Open!",
+                        "comments": [
+                            "Swiatek é a rainha do saibro, Sramkova vai ter que jogar o jogo da vida!",
+                            "Se a Sramkova sacar bem, pode complicar um pouco pro Swiatek.",
+                            "Acho que a Swiatek vence fácil em 2 sets, ela tá muito focada."
+                        ]
+                    },
+                    {
+                        "championship": "French Open, Paris, France, 64Avos-de-final",
+                        "teamA": { "name": "Giulio Zeppieri", "emblem": "Emblems/Italy.png", "rank": "ATP 310" },
+                        "teamB": { "name": "Carlos Alcaraz", "emblem": "Emblems/Spain.png", "rank": "ATP 2" },
+                        "score": "X",
+                        "date": "01/06/2025 • 07:30",
+                        "description": "Zeppieri desafia Alcaraz em um confronto nos 64avos do French Open!",
+                        "comments": [
+                            "Alcaraz tá voando, Zeppieri vai precisar de um milagre pra vencer!",
+                            "Zeppieri pode tentar ser agressivo, mas o Alcaraz é muito consistente.",
+                            "Aposto em 3 sets pro Alcaraz, ele tá em outro nível."
+                        ]
+                    },
+                    {
+                        "championship": "French Open, Paris, France, 64Avos-de-final",
+                        "teamA": { "name": "Tomas Martin Etcheverry", "emblem": "Emblems/Argentina.png", "rank": "ATP 53" },
+                        "teamB": { "name": "Stefanos Tsitsipas", "emblem": "Emblems/Greece.png", "rank": "ATP 20" },
+                        "score": "X",
+                        "date": "01/06/2025 • 08:30",
+                        "description": "Etcheverry enfrenta Tsitsipas nos 64avos do French Open!",
+                        "comments": [
+                            "Tsitsipas tem mais experiência, mas Etcheverry é perigoso no saibro!",
+                            "Se o Tsitsipas sacar bem, leva essa, mas Etcheverry vai lutar até o fim.",
+                            "Aposto num jogo de 4 sets, vai ser disputado!"
+                        ]
+                    },
+                    {
+                        "championship": "French Open, Paris, France, 64Avos-de-final",
+                        "teamA": { "name": "Daniel Altmaier", "emblem": "Emblems/Germany.png", "rank": "ATP 66" },
+                        "teamB": { "name": "Taylor Fritz", "emblem": "Emblems/USA.png", "rank": "ATP 4" },
+                        "score": "X",
+                        "date": "01/06/2025 • 08:35",
+                        "description": "Altmaier desafia Fritz em um jogo nos 64avos do French Open!",
+                        "comments": [
+                            "Fritz é favorito, mas Altmaier já surpreendeu outros tops no saibro.",
+                            "Altmaier precisa ser agressivo no saque pra ter chance contra o Fritz.",
+                            "Fritz tá mais consistente, deve vencer em 3 sets."
+                        ]
+                    },
+                    {
+                        "championship": "French Open, Paris, France, 64Avos-de-final",
+                        "teamA": { "name": "Roberto Bautista Agut", "emblem": "Emblems/Spain.png", "rank": "ATP 49" },
+                        "teamB": { "name": "Holger Rune", "emblem": "Emblems/Denmark.png", "rank": "ATP 10" },
+                        "score": "X",
+                        "date": "01/06/2025 • 09:20",
+                        "description": "Bautista Agut enfrenta Rune nos 64avos do French Open!",
+                        "comments": [
+                            "Rune tá em ascensão, mas Bautista é muito experiente no saibro.",
+                            "Bautista precisa controlar o ritmo, Rune é muito explosivo!",
+                            "Acho que o Rune leva em 4 sets, mas não vai ser fácil."
+                        ]
+                    },
+                    {
+                        "championship": "French Open, Paris, France, 64Avos-de-final",
+                        "teamA": { "name": "Hubert Hurkacz", "emblem": "Emblems/Poland.png", "rank": "ATP 28" },
+                        "teamB": { "name": "Joao Fonseca", "emblem": "Emblems/Brazil.png", "rank": "ATP 65" },
+                        "score": "X",
+                        "date": "01/06/2025 • 10:00",
+                        "description": "Hurkacz enfrenta Fonseca, promessa brasileira, nos 64avos do French Open!",
+                        "comments": [
+                            "Fonseca é uma jovem promessa, mas Hurkacz tem mais experiência!",
+                            "Hurkacz vai usar o saque pra dominar, Fonseca precisa ser agressivo na devolução.",
+                            "Torcendo pro Fonseca, Brasil representando no French Open!"
+                        ]
+                    },
+                    {
+                        "championship": "French Open, Paris, France, 64Avos-de-final",
+                        "teamA": { "name": "Beatriz Haddad Maia", "emblem": "Emblems/Brazil.png", "rank": "WTA 23" },
+                        "teamB": { "name": "Hailey Baptiste", "emblem": "Emblems/USA.png", "rank": "WTA 70" },
+                        "score": "X",
+                        "date": "01/06/2025 • 10:00",
+                        "description": "Haddad Maia enfrenta Baptiste nos 64avos do French Open!",
+                        "comments": [
+                            "Haddad Maia tá jogando bem no saibro, pode levar essa fácil!",
+                            "Baptiste tem um estilo agressivo, pode complicar se a Bia não estiver focada.",
+                            "Acho que a Bia vence em 2 sets, tá muito sólida!"
+                        ]
+                    },
+                    {
+                        "championship": "French Open, Paris, France, 64Avos-de-final",
+                        "teamA": { "name": "Mackenzie McDonald", "emblem": "Emblems/USA.png", "rank": "ATP 98" },
+                        "teamB": { "name": "Novak Djokovic", "emblem": "Emblems/Serbia.png", "rank": "ATP 6" },
+                        "score": "X",
+                        "date": "01/06/2025 • 10:00",
+                        "description": "McDonald desafia Djokovic em um confronto nos 64avos do French Open!",
+                        "comments": [
+                            "Djokovic é Djokovic, McDonald vai ter que jogar o jogo da vida!",
+                            "McDonald precisa ser perfeito no saque, Djokovic não perdoa erros.",
+                            "Aposto em 3 sets pro Djokovic, ele tá focado pra mais um título."
+                        ]
+                    },
+                    {
+                        "championship": "French Open, Paris, France, 64Avos-de-final",
+                        "teamA": { "name": "Alexander Zverev", "emblem": "Emblems/Germany.png", "rank": "ATP 3" },
+                        "teamB": { "name": "Learner Tien", "emblem": "Emblems/USA.png", "rank": "ATP 67" },
+                        "score": "X",
+                        "date": "01/06/2025 • 10:00",
+                        "description": "Zverev enfrenta Tien nos 64avos do French Open!",
+                        "comments": [
+                            "Zverev tá muito consistente, Tien vai ter que arriscar tudo!",
+                            "Tien é jovem e talentoso, mas Zverev é favorito no saibro.",
+                            "Acho que Zverev vence em 3 sets, mas Tien pode surpreender."
+                        ]
+                    },
+                    {
+                        "championship": "French Open, Paris, France, 64Avos-de-final",
+                        "teamA": { "name": "Daniil Medvedev", "emblem": "Emblems/Russia.png", "rank": "ATP 11" },
+                        "teamB": { "name": "Cameron Norrie", "emblem": "Emblems/UK.png", "rank": "ATP 81" },
+                        "score": "X",
+                        "date": "01/06/2025 • 10:00",
+                        "description": "Medvedev enfrenta Norrie nos 64avos do French Open!",
+                        "comments": [
+                            "Medvedev não é tão forte no saibro, Norrie pode complicar!",
+                            "Norrie precisa ser consistente, Medvedev é muito sólido na defesa.",
+                            "Aposto num jogo de 4 sets, Medvedev leva no final."
+                        ]
+                    },
+                    {
+                        "championship": "French Open, Paris, France, 64Avos-de-final",
+                        "teamA": { "name": "Mattia Bellucci", "emblem": "Emblems/Italy.png", "rank": "ATP 68" },
+                        "teamB": { "name": "Jack Draper", "emblem": "Emblems/UK.png", "rank": "ATP 5" },
+                        "score": "X",
+                        "date": "01/06/2025 • 10:00",
+                        "description": "Bellucci desafia Draper nos 64avos do French Open!",
+                        "comments": [
+                            "Draper tá em ótima forma, Bellucci vai ter que jogar no limite!",
+                            "Bellucci pode surpreender se forçar o Draper a errar.",
+                            "Acho que o Draper vence em 3 sets, tá muito confiante."
+                        ]
+                    },
+                    {
+                        "championship": "French Open, Paris, France, 64Avos-de-final",
+                        "teamA": { "name": "Olivia Gadecki", "emblem": "Emblems/Australia.png", "rank": "WTA 91" },
+                        "teamB": { "name": "Coco Gauff", "emblem": "Emblems/USA.png", "rank": "WTA 2" },
+                        "score": "X",
+                        "date": "01/06/2025 • 10:00",
+                        "description": "Gadecki enfrenta Gauff nos 64avos do French Open!",
+                        "comments": [
+                            "Gauff é favorita, mas Gadecki pode complicar se sacar bem!",
+                            "Gadecki precisa ser agressiva, Gauff é muito rápida na defesa.",
+                            "Aposto em 2 sets pra Gauff, ela tá num nível altíssimo."
+                        ]
+                    },
+                    {
+                        "championship": "French Open, Paris, France, 64Avos-de-final",
+                        "teamA": { "name": "Jannik Sinner", "emblem": "Emblems/Italy.png", "rank": "ATP 1" },
+                        "teamB": { "name": "Arthur Rinderknech", "emblem": "Emblems/France.png", "rank": "ATP 75" },
+                        "score": "X",
+                        "date": "01/06/2025 • 10:00",
+                        "description": "Sinner, nº 1 do mundo, enfrenta Rinderknech nos 64avos do French Open!",
+                        "comments": [
+                            "Sinner tá voando, Rinderknech vai ter que fazer um milagre!",
+                            "Rinderknech joga em casa, pode ter o apoio da torcida pra crescer.",
+                            "Sinner deve fechar em 3 sets, tá muito sólido no saibro!"
+                        ]
+                    }
+                ]
+            },
+            {
+                "weekLabel": "Semana 2 (08/06 - 14/06)",
+                "matches": [
+                    {
+                        "championship": "French Open, Paris, France, 32Avos-de-final",
+                        "teamA": { "name": "Fabian Marozsan", "emblem": "Emblems/Hungary.png", "rank": "ATP 56" },
+                        "teamB": { "name": "Carlos Alcaraz", "emblem": "Emblems/Spain.png", "rank": "ATP 2" },
+                        "score": "X",
+                        "date": "08/06/2025 • 10:00",
+                        "description": "Marozsan desafia Alcaraz nos 32avos do French Open!",
+                        "comments": [
+                            "Alcaraz é favorito, mas Marozsan já surpreendeu outros tops!",
+                            "Marozsan precisa ser agressivo, Alcaraz não dá espaço pra erros.",
+                            "Aposto em 3 sets pro Alcaraz, ele tá muito focado."
+                        ]
+                    },
+                    {
+                        "championship": "French Open, Paris, France, 32Avos-de-final",
+                        "teamA": { "name": "Casper Ruud", "emblem": "Emblems/Norway.png", "rank": "ATP 8" },
+                        "teamB": { "name": "Nuno Borges", "emblem": "Emblems/Portugal.png", "rank": "ATP 41" },
+                        "score": "X",
+                        "date": "08/06/2025 • 10:00",
+                        "description": "Ruud enfrenta Borges nos 32avos do French Open!",
+                        "comments": [
+                            "Ruud tá sólido no saibro, Borges vai ter que jogar muito pra surpreender!",
+                            "Borges tem um bom saque, pode complicar se o Ruud não estiver atento.",
+                            "Acho que o Ruud vence em 3 sets, tá muito consistente."
+                        ]
+                    },
+                    {
+                        "championship": "French Open, Paris, France, 32Avos-de-final",
+                        "teamA": { "name": "Emilio Nava", "emblem": "Emblems/USA.png", "rank": "ATP 137" },
+                        "teamB": { "name": "Holger Rune", "emblem": "Emblems/Denmark.png", "rank": "ATP 10" },
+                        "score": "X",
+                        "date": "08/06/2025 • 10:00",
+                        "description": "Nava desafia Rune nos 32avos do French Open!",
+                        "comments": [
+                            "Rune é favorito, mas Nava pode surpreender se forçar longas trocas!",
+                            "Nava precisa ser agressivo, Rune é muito sólido na defesa.",
+                            "Aposto em 4 sets pro Rune, vai ser um jogo duro!"
+                        ]
+                    },
+                    {
+                        "championship": "French Open, Paris, France, 32Avos-de-final",
+                        "teamA": { "name": "Matteo Gigante", "emblem": "Emblems/Italy.png", "rank": "ATP 167" },
+                        "teamB": { "name": "Stefanos Tsitsipas", "emblem": "Emblems/Greece.png", "rank": "ATP 20" },
+                        "score": "X",
+                        "date": "08/06/2025 • 10:00",
+                        "description": "Gigante enfrenta Tsitsipas nos 32avos do French Open!",
+                        "comments": [
+                            "Tsitsipas tá mais experiente, Gigante vai ter que arriscar tudo!",
+                            "Gigante pode complicar se forçar o Tsitsipas a errar.",
+                            "Acho que o Tsitsipas vence em 3 sets, tá muito sólido."
+                        ]
+                    },
+                    {
+                        "championship": "French Open, Paris, France, 32Avos-de-final",
+                        "teamA": { "name": "Emma Raducanu", "emblem": "Emblems/UK.png", "rank": "WTA 41" },
+                        "teamB": { "name": "Iga Swiatek", "emblem": "Emblems/Poland.png", "rank": "WTA 5" },
+                        "score": "X",
+                        "date": "08/06/2025 • 10:00",
+                        "description": "Raducanu desafia Swiatek nos 32avos do French Open!",
+                        "comments": [
+                            "Swiatek é a rainha do saibro, Raducanu vai ter que jogar no limite!",
+                            "Raducanu precisa sacar bem pra ter alguma chance contra a Swiatek.",
+                            "Aposto em 2 sets pra Swiatek, ela tá imbatível no saibro!"
+                        ]
+                    },
+                    {
+                        "championship": "French Open, Paris, France, 32Avos-de-final",
+                        "teamA": { "name": "Aryna Sabalenka", "emblem": "Emblems/Belarus.png", "rank": "WTA 1" },
+                        "teamB": { "name": "Jil Teichmann", "emblem": "Emblems/Switzerland.png", "rank": "WTA 98" },
+                        "score": "X",
+                        "date": "08/06/2025 • 10:00",
+                        "description": "Sabalenka, nº 1 do mundo, enfrenta Teichmann nos 32avos do French Open!",
+                        "comments": [
+                            "Sabalenka é favorita, Teichmann vai precisar de um milagre!",
+                            "Teichmann pode complicar se forçar longas trocas, mas Sabalenka tá muito forte.",
+                            "Aposto em 2 sets pra Sabalenka, ela tá dominando o circuito!"
+                        ]
+                    }
+                ]
+            },
+            {
+                "weekLabel": "Semana 3 (15/06 - 21/06)",
+                "matches": []
+            },
+            {
+                "weekLabel": "Semana 4 (22/06 - 28/06)",
+                "matches": []
+            }
+        ],
+        "Julho": [
+            {
+                "weekLabel": "Semana 1 (01/07 - 07/07)",
+                "matches": []
+            },
+            {
+                "weekLabel": "Semana 2 (08/07 - 14/07)",
+                "matches": []
+            },
+            {
+                "weekLabel": "Semana 3 (15/07 - 21/07)",
+                "matches": []
+            },
+            {
+                "weekLabel": "Semana 4 (22/07 - 28/07)",
+                "matches": []
+            }
+        ],
+        "Agosto": [
+            {
+                "weekLabel": "Semana 1 (01/08 - 07/08)",
+                "matches": []
+            },
+            {
+                "weekLabel": "Semana 2 (08/08 - 14/08)",
+                "matches": []
+            },
+            {
+                "weekLabel": "Semana 3 (15/08 - 21/08)",
+                "matches": []
+            },
+            {
+                "weekLabel": "Semana 4 (22/08 - 28/08)",
+                "matches": []
+            }
+        ]
+    }
+}

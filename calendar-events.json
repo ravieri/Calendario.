@@ -1,0 +1,1489 @@
+{
+    "events": [
+        {
+            "date": "2025-01-01",
+            "description": "Futebol Americano Universitário: Rose Bowl"
+        },
+        {
+            "date": "2025-01-02",
+            "description": "Futebol: Copa São Paulo de Futebol Júnior - Início"
+        },
+        {
+            "date": "2025-01-02",
+            "description": "Futebol: Supercopa da Itália - Início"
+        },
+        {
+            "date": "2025-01-02",
+            "description": "Futebol: Final do Campeonato da ASEAN (1º jogo)"
+        },
+        {
+            "date": "2025-01-02",
+            "description": "Corrida: Hakone Ekiden - Início"
+        },
+        {
+            "date": "2025-01-03",
+            "description": "Automobilismo: Rally Dakar - Início"
+        },
+        {
+            "date": "2025-01-03",
+            "description": "Corrida: Hakone Ekiden - Fim"
+        },
+        {
+            "date": "2025-01-05",
+            "description": "Hóquei no Gelo: Final do Mundial Júnior da IIHF"
+        },
+        {
+            "date": "2025-01-05",
+            "description": "Futebol: Final do Campeonato da ASEAN (2º jogo)"
+        },
+        {
+            "date": "2025-01-06",
+            "description": "Futebol: Supercopa da Itália - Fim"
+        },
+        {
+            "date": "2025-01-12",
+            "description": "Tênis: Australian Open - Início"
+        },
+        {
+            "date": "2025-01-12",
+            "description": "Futebol: Final da Supercopa da Espanha"
+        },
+        {
+            "date": "2025-01-13",
+            "description": "Futebol: Final Nacional High School (Japão)"
+        },
+        {
+            "date": "2025-01-14",
+            "description": "Handebol: Mundial Masculino - Início"
+        },
+        {
+            "date": "2025-01-15",
+            "description": "Futebol: Início da Liga MX (Clausura 2025)"
+        },
+        {
+            "date": "2025-01-17",
+            "description": "Automobilismo: Rally Dakar - Fim"
+        },
+        {
+            "date": "2025-01-19",
+            "description": "Futebol: Campeonatos Estaduais de Futebol - Início (datas podem variar por estado)"
+        },
+        {
+            "date": "2025-01-20",
+            "description": "Futebol Americano Universitário: Final do College Football Playoff"
+        },
+        {
+            "date": "2025-01-23",
+            "description": "Esportes Radicais: X Games Aspen - Início"
+        },
+        {
+            "date": "2025-01-25",
+            "description": "Futebol: Copa São Paulo de Futebol Júnior - Fim"
+        },
+        {
+            "date": "2025-01-25",
+            "description": "Esportes Radicais: X Games Aspen - Fim"
+        },
+        {
+            "date": "2025-01-26",
+            "description": "Tênis: Australian Open - Fim"
+        },
+        {
+            "date": "2025-01-26",
+            "description": "Corrida: Maratona Feminina de Osaka"
+        },
+        {
+            "date": "2025-01-31",
+            "description": "Rugby: Six Nations Championship - Início"
+        },
+        {
+            "date": "2025-02-02",
+            "description": "Handebol: Mundial Masculino - Fim"
+        },
+        {
+            "date": "2025-02-04",
+            "description": "Esqui Alpino: Campeonato Mundial - Início"
+        },
+        {
+            "date": "2025-02-06",
+            "description": "Futebol: Copa da Ásia Sub-20 - Início"
+        },
+        {
+            "date": "2025-02-08",
+            "description": "Vela: Royal Hobart Regatta - Início"
+        },
+        {
+            "date": "2025-02-09",
+            "description": "Futebol Americano: Super Bowl LIX"
+        },
+        {
+            "date": "2025-02-10",
+            "description": "Vela: Royal Hobart Regatta - Fim"
+        },
+        {
+            "date": "2025-02-10",
+            "description": "Futebol: Final da UAE Pro League"
+        },
+        {
+            "date": "2025-02-12",
+            "description": "Futebol: Copa da Ásia Feminina Sub-20 - Início"
+        },
+        {
+            "date": "2025-02-12",
+            "description": "Futebol: Copa da Ásia Sub-23 - Início"
+        },
+        {
+            "date": "2025-02-14",
+            "description": "Basquete: NBA All-Star Weekend - Início"
+        },
+        {
+            "date": "2025-02-14",
+            "description": "Fórmula E: Diriyah ePrix - Início"
+        },
+        {
+            "date": "2025-02-14",
+            "description": "Futebol: Início da J-League (Japão)"
+        },
+        {
+            "date": "2025-02-15",
+            "description": "Futebol: Supercopa Rei (antiga Supercopa do Brasil)"
+        },
+        {
+            "date": "2025-02-15",
+            "description": "Fórmula E: Diriyah ePrix - Fim"
+        },
+        {
+            "date": "2025-02-16",
+            "description": "Esqui Alpino: Campeonato Mundial - Fim"
+        },
+        {
+            "date": "2025-02-16",
+            "description": "Basquete: NBA All-Star Weekend - Fim"
+        },
+        {
+            "date": "2025-02-16",
+            "description": "Tênis: Dubai Tennis Championship - Início"
+        },
+        {
+            "date": "2025-02-16",
+            "description": "Automobilismo: Daytona 500"
+        },
+        {
+            "date": "2025-02-19",
+            "description": "Futebol: Copa do Brasil - Início"
+        },
+        {
+            "date": "2025-02-19",
+            "description": "Críquete: ICC Men's Champions Trophy - Início"
+        },
+        {
+            "date": "2025-02-22",
+            "description": "Futebol: Início da Temporada da MLS"
+        },
+        {
+            "date": "2025-02-23",
+            "description": "Futebol: Copa da Ásia Sub-20 - Fim"
+        },
+        {
+            "date": "2025-02-24",
+            "description": "Corrida: Maratona de Osaka"
+        },
+        {
+            "date": "2025-02-26",
+            "description": "Vôlei de Praia: Circuito Brasileiro de Vôlei de Praia 2025 - 1ª Etapa Elite (Campo Grande, MS) - Início"
+        },
+        {
+            "date": "2025-02-28",
+            "description": "MotoGP: GP da Tailândia - Início"
+        },
+        {
+            "date": "2025-03-01",
+            "description": "Futebol: Copa da Ásia Feminina Sub-20 - Fim"
+        },
+        {
+            "date": "2025-03-01",
+            "description": "Futebol: Copa da Ásia Sub-23 - Fim"
+        },
+        {
+            "date": "2025-03-01",
+            "description": "Tênis: Dubai Tennis Championship - Fim"
+        },
+        {
+            "date": "2025-03-02",
+            "description": "Vôlei de Praia: Circuito Brasileiro de Vôlei de Praia 2025 - 1ª Etapa Elite (Campo Grande, MS) - Fim"
+        },
+        {
+            "date": "2025-03-02",
+            "description": "MotoGP: GP da Tailândia - Fim"
+        },
+        {
+            "date": "2025-03-02",
+            "description": "Corrida: Maratona de Tóquio"
+        },
+        {
+            "date": "2025-03-05",
+            "description": "Futebol: Copa Sul-Americana - Início"
+        },
+        {
+            "date": "2025-03-08",
+            "description": "Rugby: Início da NRL (Liga Nacional de Rugby da Austrália)"
+        },
+        {
+            "date": "2025-03-08",
+            "description": "Multiesportivo: Special Olympics World Winter Games - Início"
+        },
+        {
+            "date": "2025-03-09",
+            "description": "Críquete: ICC Men's Champions Trophy - Fim"
+        },
+        {
+            "date": "2025-03-11",
+            "description": "Corridas de Cavalo: Cheltenham Festival - Início"
+        },
+        {
+            "date": "2025-03-13",
+            "description": "Futebol Australiano: Início da AFL"
+        },
+        {
+            "date": "2025-03-14",
+            "description": "Fórmula 1: Temporada 2025 - Início (GP da Austrália)"
+        },
+        {
+            "date": "2025-03-14",
+            "description": "Críquete: Indian Premier League (IPL) - Início"
+        },
+        {
+            "date": "2025-03-14",
+            "description": "Corridas de Cavalo: Cheltenham Festival - Fim"
+        },
+        {
+            "date": "2025-03-14",
+            "description": "Judô: Open Pan-Americano de Judô - Rio de Janeiro - Início"
+        },
+        {
+            "date": "2025-03-15",
+            "description": "Rugby: Six Nations Championship - Fim"
+        },
+        {
+            "date": "2025-03-15",
+            "description": "Corridas de Cavalo: Sydney Autumn Racing Carnival - Início"
+        },
+        {
+            "date": "2025-03-15",
+            "description": "Multiesportivo: Special Olympics World Winter Games - Fim"
+        },
+        {
+            "date": "2025-03-16",
+            "description": "Futebol: Final da Carabao Cup (Copa da Liga Inglesa)"
+        },
+        {
+            "date": "2025-03-16",
+            "description": "Basquete Universitário: NCAA Men's March Madness - Início"
+        },
+        {
+            "date": "2025-03-16",
+            "description": "Basquete Universitário: NCAA Women's March Madness - Início"
+        },
+        {
+            "date": "2025-03-16",
+            "description": "Judô: Open Pan-Americano de Judô - Rio de Janeiro - Fim"
+        },
+        {
+            "date": "2025-03-18",
+            "description": "Beisebol: MLB World Tour: Tokyo Series - Início"
+        },
+        {
+            "date": "2025-03-19",
+            "description": "Vôlei de Praia: Circuito Brasileiro de Vôlei de Praia 2025 - 2ª Etapa Elite (Itapema, SC) - Início"
+        },
+        {
+            "date": "2025-03-19",
+            "description": "Beisebol: MLB World Tour: Tokyo Series - Fim"
+        },
+        {
+            "date": "2025-03-20",
+            "description": "Futebol: Quartas de Final da UEFA Nations League - Início"
+        },
+        {
+            "date": "2025-03-21",
+            "description": "Atletismo: Mundial Indoor - Início"
+        },
+        {
+            "date": "2025-03-21",
+            "description": "Fórmula 1: GP da China - Início"
+        },
+        {
+            "date": "2025-03-23",
+            "description": "Futebol: Campeonatos Estaduais de Futebol - Fim (datas podem variar por estado)"
+        },
+        {
+            "date": "2025-03-23",
+            "description": "Vôlei de Praia: Circuito Brasileiro de Vôlei de Praia 2025 - 2ª Etapa Elite (Itapema, SC) - Fim"
+        },
+        {
+            "date": "2025-03-23",
+            "description": "Futebol: Quartas de Final da UEFA Nations League - Fim"
+        },
+        {
+            "date": "2025-03-23",
+            "description": "Atletismo: Mundial Indoor - Fim"
+        },
+        {
+            "date": "2025-03-23",
+            "description": "Fórmula 1: GP da China - Fim"
+        },
+        {
+            "date": "2025-03-27",
+            "description": "Beisebol: Início da Temporada da MLB"
+        },
+        {
+            "date": "2025-03-28",
+            "description": "Atletismo: Copa Brasil de Marcha Atlética Loterias Caixa - Início"
+        },
+        {
+            "date": "2025-03-30",
+            "description": "Atletismo: Copa Brasil de Marcha Atlética Loterias Caixa - Fim"
+        },
+        {
+            "date": "2025-04-02",
+            "description": "Futebol: Semifinais da Coppa Italia"
+        },
+        {
+            "date": "2025-04-04",
+            "description": "Fórmula 1: GP do Japão - Início"
+        },
+        {
+            "date": "2025-04-05",
+            "description": "Futebol: Campeonato Brasileiro - Série A - Início"
+        },
+        {
+            "date": "2025-04-05",
+            "description": "Corridas de Cavalo: Dubai World Cup"
+        },
+        {
+            "date": "2025-04-05",
+            "description": "Corridas de Cavalo: Grand National"
+        },
+        {
+            "date": "2025-04-06",
+            "description": "Corrida: Maratona de São Paulo"
+        },
+        {
+            "date": "2025-04-06",
+            "description": "Fórmula 1: GP do Japão - Fim"
+        },
+        {
+            "date": "2025-04-06",
+            "description": "Basquete Universitário: NCAA Women's March Madness - Fim"
+        },
+        {
+            "date": "2025-04-07",
+            "description": "Basquete Universitário: NCAA Men's March Madness - Fim"
+        },
+        {
+            "date": "2025-04-09",
+            "description": "Hóquei no Gelo: Mundial Feminino da IIHF - Início"
+        },
+        {
+            "date": "2025-04-10",
+            "description": "Golfe: The Masters - Início"
+        },
+        {
+            "date": "2025-04-11",
+            "description": "Fórmula 1: GP do Bahrein - Início"
+        },
+        {
+            "date": "2025-04-13",
+            "description": "Golfe: The Masters - Fim"
+        },
+        {
+            "date": "2025-04-13",
+            "description": "Basquete: Fim da Temporada Regular da NBA"
+        },
+        {
+            "date": "2025-04-13",
+            "description": "Corrida: Maratona de Paris"
+        },
+        {
+            "date": "2025-04-13",
+            "description": "Fórmula 1: GP do Bahrein - Fim"
+        },
+        {
+            "date": "2025-04-14",
+            "description": "Basquete: Draft da WNBA"
+        },
+        {
+            "date": "2025-04-16",
+            "description": "Vôlei de Praia: Circuito Brasileiro de Vôlei de Praia 2025 - 3ª Etapa Elite (Saquarema, RJ) - Início"
+        },
+        {
+            "date": "2025-04-17",
+            "description": "Hóquei no Gelo: Fim da Temporada Regular da NHL"
+        },
+        {
+            "date": "2025-04-18",
+            "description": "Surfe: Rip Curl Pro Bells Beach - Início"
+        },
+        {
+            "date": "2025-04-18",
+            "description": "Hóquei no Gelo: Início dos Playoffs da NHL"
+        },
+        {
+            "date": "2025-04-18",
+            "description": "Fórmula 1: GP da Arábia Saudita - Início"
+        },
+        {
+            "date": "2025-04-19",
+            "description": "Basquete: Início dos Playoffs da NBA"
+        },
+        {
+            "date": "2025-04-20",
+            "description": "Vôlei de Praia: Circuito Brasileiro de Vôlei de Praia 2025 - 3ª Etapa Elite (Saquarema, RJ) - Fim"
+        },
+        {
+            "date": "2025-04-20",
+            "description": "Fórmula 1: GP da Arábia Saudita - Fim"
+        },
+        {
+            "date": "2025-04-20",
+            "description": "Hóquei no Gelo: Mundial Feminino da IIHF - Fim"
+        },
+        {
+            "date": "2025-04-21",
+            "description": "Natação: Troféu Brasil de Natação (antigo Maria Lenk) - Início"
+        },
+        {
+            "date": "2025-04-21",
+            "description": "Corrida: Maratona de Boston"
+        },
+        {
+            "date": "2025-04-21",
+            "description": "Tênis: Mutua Madrid Open - Início"
+        },
+        {
+            "date": "2025-04-23",
+            "description": "Futebol: Semifinais da Coppa Italia"
+        },
+        {
+            "date": "2025-04-23",
+            "description": "Multiesportivo: South Asian Games - Início"
+        },
+        {
+            "date": "2025-04-24",
+            "description": "Futebol Americano: Draft da NFL - Início"
+        },
+        {
+            "date": "2025-04-24",
+            "description": "Golfe: Chevron Championship - Início"
+        },
+        {
+            "date": "2025-04-25",
+            "description": "MotoGP: GP da Espanha (Jerez) - Início"
+        },
+        {
+            "date": "2025-04-25",
+            "description": "Futebol: Final da AFC Champions League (1º jogo)"
+        },
+        {
+            "date": "2025-04-26",
+            "description": "Natação: Troféu Brasil de Natação (antigo Maria Lenk) - Fim"
+        },
+        {
+            "date": "2025-04-26",
+            "description": "Futebol: Final da Copa del Rey (Espanha)"
+        },
+        {
+            "date": "2025-04-26",
+            "description": "Futebol Americano: Draft da NFL - Fim"
+        },
+        {
+            "date": "2025-04-27",
+            "description": "MotoGP: GP da Espanha (Jerez) - Fim"
+        },
+        {
+            "date": "2025-04-27",
+            "description": "Corrida: Maratona de Londres"
+        },
+        {
+            "date": "2025-04-27",
+            "description": "Golfe: Chevron Championship - Fim"
+        },
+        {
+            "date": "2025-04-28",
+            "description": "Surfe: Rip Curl Pro Bells Beach - Fim"
+        },
+        {
+            "date": "2025-04-29",
+            "description": "Corridas de Cavalo: Sydney Autumn Racing Carnival - Fim"
+        },
+        {
+            "date": "2025-05-01",
+            "description": "Futebol: Final da Copa da Alemanha Feminina (DFB-Pokal)"
+        },
+        {
+            "date": "2025-05-01",
+            "description": "Futebol: Final da Copa da França Feminina"
+        },
+        {
+            "date": "2025-05-02",
+            "description": "Fórmula 1: GP de Miami - Início"
+        },
+        {
+            "date": "2025-05-03",
+            "description": "Corridas de Cavalo: Kentucky Derby"
+        },
+        {
+            "date": "2025-05-04",
+            "description": "Futebol: Final da AFC Champions League (2º jogo)"
+        },
+        {
+            "date": "2025-05-04",
+            "description": "Fórmula 1: GP de Miami - Fim"
+        },
+        {
+            "date": "2025-05-05",
+            "description": "Tênis: Mutua Madrid Open - Fim"
+        },
+        {
+            "date": "2025-05-07",
+            "description": "Vôlei de Praia: Circuito Brasileiro de Vôlei de Praia 2025 - 4ª Etapa Elite (Cuiabá, MT) - Início"
+        },
+        {
+            "date": "2025-05-07",
+            "description": "Ginástica: Troféu Brasil de Ginástica Artística (Adulto) - Início"
+        },
+        {
+            "date": "2025-05-07",
+            "description": "Ginástica: Campeonato Brasileiro de Ginástica de Trampolim (Por Idade) - Início"
+        },
+        {
+            "date": "2025-05-07",
+            "description": "Multiesportivo: South Asian Games - Fim"
+        },
+        {
+            "date": "2025-05-07",
+            "description": "Tênis: Italian Open (Roma) - Início"
+        },
+        {
+            "date": "2025-05-11",
+            "description": "Vôlei de Praia: Circuito Brasileiro de Vôlei de Praia 2025 - 4ª Etapa Elite (Cuiabá, MT) - Fim"
+        },
+        {
+            "date": "2025-05-11",
+            "description": "Ginástica: Troféu Brasil de Ginástica Artística (Adulto) - Fim"
+        },
+        {
+            "date": "2025-05-11",
+            "description": "Ginástica: Campeonato Brasileiro de Ginástica de Trampolim (Por Idade) - Fim"
+        },
+        {
+            "date": "2025-05-11",
+            "description": "Futebol: Fim da Temporada da FA Women's Super League"
+        },
+        {
+            "date": "2025-05-12",
+            "description": "Basquete: Sorteio do Draft da NBA"
+        },
+        {
+            "date": "2025-05-13",
+            "description": "Parabadminton: Campeonato Mundial - Início"
+        },
+        {
+            "date": "2025-05-14",
+            "description": "Futebol: Final da Coppa Italia"
+        },
+        {
+            "date": "2025-05-15",
+            "description": "Golfe: PGA Championship - Início"
+        },
+        {
+            "date": "2025-05-16",
+            "description": "Basquete: Início da Temporada da WNBA"
+        },
+        {
+            "date": "2025-05-17",
+            "description": "Futebol: Final da FA Cup"
+        },
+        {
+            "date": "2025-05-17",
+            "description": "Surfe: Margaret River Pro - Início"
+        },
+        {
+            "date": "2025-05-17",
+            "description": "Tênis de Mesa: Mundial de Tênis de Mesa - Início"
+        },
+        {
+            "date": "2025-05-18",
+            "description": "Golfe: PGA Championship - Fim"
+        },
+        {
+            "date": "2025-05-18",
+            "description": "Parabadminton: Campeonato Mundial - Fim"
+        },
+        {
+            "date": "2025-05-18",
+            "description": "Tênis: Italian Open (Roma) - Fim"
+        },
+        {
+            "date": "2025-05-18",
+            "description": "Futebol: Final da Women's FA Cup"
+        },
+        {
+            "date": "2025-05-21",
+            "description": "Futebol: Final da UEFA Europa League"
+        },
+        {
+            "date": "2025-05-22",
+            "description": "Futebol: Final da Liga MX (Clausura) - Início"
+        },
+        {
+            "date": "2025-05-23",
+            "description": "Basquete: Euroleague Final Four - Início"
+        },
+        {
+            "date": "2025-05-24",
+            "description": "Futebol: Final da Copa da Alemanha Masculina (DFB-Pokal)"
+        },
+        {
+            "date": "2025-05-24",
+            "description": "Futebol: Final da Copa da França Masculina"
+        },
+        {
+            "date": "2025-05-24",
+            "description": "Futebol: Fim da Temporada da Premier League"
+        },
+        {
+            "date": "2025-05-25",
+            "description": "Tênis: Roland Garros (French Open) - Início"
+        },
+        {
+            "date": "2025-05-25",
+            "description": "Automobilismo: Indianapolis 500"
+        },
+        {
+            "date": "2025-05-25",
+            "description": "Críquete: Indian Premier League (IPL) - Fim"
+        },
+        {
+            "date": "2025-05-25",
+            "description": "Futebol: Final da UEFA Champions League Feminina"
+        },
+        {
+            "date": "2025-05-25",
+            "description": "Fórmula 1: GP de Mônaco"
+        },
+        {
+            "date": "2025-05-25",
+            "description": "Futebol: Fim da Temporada da La Liga"
+        },
+        {
+            "date": "2025-05-25",
+            "description": "Futebol: Fim da Temporada da Serie A"
+        },
+        {
+            "date": "2025-05-25",
+            "description": "Basquete: Euroleague Final Four - Fim"
+        },
+        {
+            "date": "2025-05-25",
+            "description": "Tênis de Mesa: Mundial de Tênis de Mesa - Fim"
+        },
+        {
+            "date": "2025-05-25",
+            "description": "Futebol: Final da Liga MX (Clausura) - Fim"
+        },
+        {
+            "date": "2025-05-26",
+            "description": "Futebol: Fim da Temporada da Saudi Pro League"
+        },
+        {
+            "date": "2025-05-27",
+            "description": "Surfe: Margaret River Pro - Fim"
+        },
+        {
+            "date": "2025-05-28",
+            "description": "Futebol: Final da UEFA Conference League"
+        },
+        {
+            "date": "2025-05-29",
+            "description": "Golfe: U.S. Women's Open - Início"
+        },
+        {
+            "date": "2025-05-31",
+            "description": "Futebol: Final da UEFA Champions League"
+        },
+        {
+            "date": "2025-06-01",
+            "description": "Fórmula 1: GP da Espanha - Fim"
+        },
+        {
+            "date": "2025-06-01",
+            "description": "Golfe: U.S. Women's Open - Fim"
+        },
+        {
+            "date": "2025-06-03",
+            "description": "Badminton: Indonesia Open - Início"
+        },
+        {
+            "date": "2025-06-04",
+            "description": "Ginástica: Campeonato Brasileiro de Ginástica Rítmica (Adulto) - Início"
+        },
+        {
+            "date": "2025-06-04",
+            "description": "Ginástica: Copa Brasil de Conjunto de Ginástica Rítmica (Juvenil e Pré-Infantil) - Início"
+        },
+        {
+            "date": "2025-06-04",
+            "description": "Futebol: Semifinais da UEFA Nations League - Início"
+        },
+        {
+            "date": "2025-06-05",
+            "description": "Basquete: Finais da NBA - Início"
+        },
+        {
+            "date": "2025-06-05",
+            "description": "Futebol Canadense: Início da Temporada da CFL"
+        },
+        {
+            "date": "2025-06-06",
+            "description": "Atletismo: Campeonato Brasileiro Interclubes de Trilha e Montanha Loterias Caixa - Início"
+        },
+        {
+            "date": "2025-06-07",
+            "description": "Atletismo: Campeonato Brasileiro Interclubes de Trilha e Montanha Loterias Caixa - Fim"
+        },
+        {
+            "date": "2025-06-08",
+            "description": "Ginástica: Campeonato Brasileiro de Ginástica Rítmica (Adulto) - Fim"
+        },
+        {
+            "date": "2025-06-08",
+            "description": "Ginástica: Copa Brasil de Conjunto de Ginástica Rítmica (Juvenil e Pré-Infantil) - Fim"
+        },
+        {
+            "date": "2025-06-08",
+            "description": "Tênis: Roland Garros (French Open) - Fim"
+        },
+        {
+            "date": "2025-06-08",
+            "description": "Futebol: Final da UEFA Nations League"
+        },
+        {
+            "date": "2025-06-08",
+            "description": "Badminton: Indonesia Open - Fim"
+        },
+        {
+            "date": "2025-06-11",
+            "description": "Automobilismo: 24 Horas de Le Mans - Início"
+        },
+        {
+            "date": "2025-06-12",
+            "description": "Fórmula 1: GP do Canadá - Início"
+        },
+        {
+            "date": "2025-06-12",
+            "description": "Golfe: U.S. Open - Início"
+        },
+        {
+            "date": "2025-06-15",
+            "description": "Fórmula 1: GP do Canadá - Fim"
+        },
+        {
+            "date": "2025-06-15",
+            "description": "Futebol: Mundial de Clubes FIFA - Início"
+        },
+        {
+            "date": "2025-06-15",
+            "description": "Golfe: U.S. Open - Fim"
+        },
+        {
+            "date": "2025-06-15",
+            "description": "Automobilismo: 24 Horas de Le Mans - Fim"
+        },
+        {
+            "date": "2025-06-17",
+            "description": "Corridas de Cavalo: Royal Ascot - Início"
+        },
+        {
+            "date": "2025-06-19",
+            "description": "Golfe: KPMG Women's PGA Championship - Início"
+        },
+        {
+            "date": "2025-06-20",
+            "description": "MotoGP: GP da Itália - Início"
+        },
+        {
+            "date": "2025-06-21",
+            "description": "Surfe: Rio Pro (Etapa do WSL Championship Tour) - Início"
+        },
+        {
+            "date": "2025-06-21",
+            "description": "Corridas de Cavalo: Royal Ascot - Fim"
+        },
+        {
+            "date": "2025-06-22",
+            "description": "Corrida: Maratona do Rio de Janeiro"
+        },
+        {
+            "date": "2025-06-22",
+            "description": "Basquete: Finais da NBA - Fim"
+        },
+        {
+            "date": "2025-06-22",
+            "description": "Golfe: KPMG Women's PGA Championship - Fim"
+        },
+        {
+            "date": "2025-06-22",
+            "description": "MotoGP: GP da Itália - Fim"
+        },
+        {
+            "date": "2025-06-25",
+            "description": "Basquete: Draft da NBA - Início"
+        },
+        {
+            "date": "2025-06-26",
+            "description": "Atletismo: Campeonato Brasileiro Sub-23 Interclubes Loterias Caixa de Atletismo - Início"
+        },
+        {
+            "date": "2025-06-26",
+            "description": "Fórmula 1: GP da Áustria - Início"
+        },
+        {
+            "date": "2025-06-26",
+            "description": "Basquete: Draft da NBA - Fim"
+        },
+        {
+            "date": "2025-06-28",
+            "description": "Basquete: Copa do Mundo Sub-19 da FIBA - Início"
+        },
+        {
+            "date": "2025-06-29",
+            "description": "Surfe: Rio Pro (Etapa do WSL Championship Tour) - Fim"
+        },
+        {
+            "date": "2025-06-29",
+            "description": "Atletismo: Campeonato Brasileiro Sub-23 Interclubes Loterias Caixa de Atletismo - Fim"
+        },
+        {
+            "date": "2025-06-29",
+            "description": "Fórmula 1: GP da Áustria - Fim"
+        },
+        {
+            "date": "2025-06-30",
+            "description": "Tênis: Wimbledon - Início"
+        },
+        {
+            "date": "2025-07-01",
+            "description": "Remo: Henley Royal Regatta - Início"
+        },
+        {
+            "date": "2025-07-02",
+            "description": "Futebol: Eurocopa Feminina - Início"
+        },
+        {
+            "date": "2025-07-03",
+            "description": "Atletismo: Campeonato Brasileiro Sub-18 Interclubes Loterias Caixa de Atletismo - Início"
+        },
+        {
+            "date": "2025-07-04",
+            "description": "Fórmula 1: GP da Grã-Bretanha - Início"
+        },
+        {
+            "date": "2025-07-05",
+            "description": "Ciclismo: Tour de France - Início"
+        },
+        {
+            "date": "2025-07-06",
+            "description": "Atletismo: Campeonato Brasileiro Sub-18 Interclubes Loterias Caixa de Atletismo - Fim"
+        },
+        {
+            "date": "2025-07-06",
+            "description": "Fórmula 1: GP da Grã-Bretanha - Fim"
+        },
+        {
+            "date": "2025-07-06",
+            "description": "Basquete: Copa do Mundo Sub-19 da FIBA - Fim"
+        },
+        {
+            "date": "2025-07-06",
+            "description": "Remo: Henley Royal Regatta - Fim"
+        },
+        {
+            "date": "2025-07-08",
+            "description": "Multiesportivo: Jogos Macabeus - Início"
+        },
+        {
+            "date": "2025-07-11",
+            "description": "Natação: Mundial de Esportes Aquáticos - Início"
+        },
+        {
+            "date": "2025-07-13",
+            "description": "Futebol: Mundial de Clubes FIFA - Fim"
+        },
+        {
+            "date": "2025-07-13",
+            "description": "Tênis: Wimbledon - Fim"
+        },
+        {
+            "date": "2025-07-14",
+            "description": "Tênis: Campeonato Brasileiro de Tênis (Brasileirão) - Início"
+        },
+        {
+            "date": "2025-07-15",
+            "description": "Beisebol: MLB All-Star Game"
+        },
+        {
+            "date": "2025-07-16",
+            "description": "Vôlei de Praia: Circuito Brasileiro de Vôlei de Praia 2025 - 5ª Etapa Elite (Cuiabá, MT - Adiada) - Início"
+        },
+        {
+            "date": "2025-07-17",
+            "description": "Golfe: The Open Championship (British Open) - Início"
+        },
+        {
+            "date": "2025-07-20",
+            "description": "Vôlei de Praia: Circuito Brasileiro de Vôlei de Praia 2025 - 5ª Etapa Elite (Cuiabá, MT - Adiada) - Fim"
+        },
+        {
+            "date": "2025-07-20",
+            "description": "Golfe: The Open Championship (British Open) - Fim"
+        },
+        {
+            "date": "2025-07-22",
+            "description": "Multiesportivo: Jogos Macabeus - Fim"
+        },
+        {
+            "date": "2025-07-24",
+            "description": "Fórmula 1: GP da Bélgica - Início"
+        },
+        {
+            "date": "2025-07-26",
+            "description": "Ciclismo: Tour de France Feminino - Início"
+        },
+        {
+            "date": "2025-07-27",
+            "description": "Ciclismo: Tour de France - Fim"
+        },
+        {
+            "date": "2025-07-27",
+            "description": "Fórmula 1: GP da Bélgica - Fim"
+        },
+        {
+            "date": "2025-07-27",
+            "description": "Futebol: Eurocopa Feminina - Fim"
+        },
+        {
+            "date": "2025-07-28",
+            "description": "Corridas de Cavalo: The Galway Races - Início"
+        },
+        {
+            "date": "2025-07-30",
+            "description": "Tênis: Campeonato Brasileiro de Tênis (Brasileirão) - Fim"
+        },
+        {
+            "date": "2025-07-31",
+            "description": "Fórmula 1: GP da Hungria - Início"
+        },
+        {
+            "date": "2025-08-03",
+            "description": "Ciclismo: Tour de France Feminino - Fim"
+        },
+        {
+            "date": "2025-08-03",
+            "description": "Fórmula 1: GP da Hungria - Fim"
+        },
+        {
+            "date": "2025-08-03",
+            "description": "Natação: Mundial de Esportes Aquáticos - Fim"
+        },
+        {
+            "date": "2025-08-03",
+            "description": "Corridas de Cavalo: The Galway Races - Fim"
+        },
+        {
+            "date": "2025-08-04",
+            "description": "Tênis: National Bank Open (Aberto do Canadá) - Início"
+        },
+        {
+            "date": "2025-08-10",
+            "description": "Tênis: National Bank Open (Aberto do Canadá) - Fim"
+        },
+        {
+            "date": "2025-08-10",
+            "description": "Corrida: City2Surf (Sydney)"
+        },
+        {
+            "date": "2025-08-10",
+            "description": "Futebol: FA Community Shield"
+        },
+        {
+            "date": "2025-08-14",
+            "description": "Atletismo: Campeonato Brasileiro Sub-20 Interclubes Loterias Caixa de Atletismo - Início"
+        },
+        {
+            "date": "2025-08-16",
+            "description": "Futebol: Início da Temporada da Premier League"
+        },
+        {
+            "date": "2025-08-17",
+            "description": "Atletismo: Campeonato Brasileiro Sub-20 Interclubes Loterias Caixa de Atletismo - Fim"
+        },
+        {
+            "date": "2025-08-20",
+            "description": "Ginástica: Campeonato Mundial de Ginástica Rítmica - Início"
+        },
+        {
+            "date": "2025-08-21",
+            "description": "Golfe: AIG Women's Open - Início"
+        },
+        {
+            "date": "2025-08-22",
+            "description": "Rugby: Copa do Mundo Feminina - Início"
+        },
+        {
+            "date": "2025-08-22",
+            "description": "Futebol: Início da Temporada 2025-26 da Bundesliga"
+        },
+        {
+            "date": "2025-08-23",
+            "description": "Ciclismo: Vuelta a España (Volta da Espanha) - Início"
+        },
+        {
+            "date": "2025-08-23",
+            "description": "Fórmula 1: GP da Holanda - Início"
+        },
+        {
+            "date": "2025-08-24",
+            "description": "Ginástica: Campeonato Mundial de Ginástica Rítmica - Fim"
+        },
+        {
+            "date": "2025-08-24",
+            "description": "Golfe: AIG Women's Open - Fim"
+        },
+        {
+            "date": "2025-08-25",
+            "description": "Fórmula 1: GP da Holanda - Fim"
+        },
+        {
+            "date": "2025-08-25",
+            "description": "Tênis: US Open - Início"
+        },
+        {
+            "date": "2025-08-27",
+            "description": "Atletismo: Troféu Brasil Loterias Caixa de Atletismo (Adulto) - Início"
+        },
+        {
+            "date": "2025-08-27",
+            "description": "Surfe: Finais da WSL - Início"
+        },
+        {
+            "date": "2025-08-31",
+            "description": "Atletismo: Troféu Brasil Loterias Caixa de Atletismo (Adulto) - Fim"
+        },
+        {
+            "date": "2025-09-04",
+            "description": "Futebol Americano: Temporada NFL 2025 - Início"
+        },
+        {
+            "date": "2025-09-04",
+            "description": "Fórmula 1: GP da Itália - Início"
+        },
+        {
+            "date": "2025-09-04",
+            "description": "Surfe: Finais da WSL - Fim"
+        },
+        {
+            "date": "2025-09-05",
+            "description": "MotoGP: GP da Catalunha - Início"
+        },
+        {
+            "date": "2025-09-07",
+            "description": "Fórmula 1: GP da Itália - Fim"
+        },
+        {
+            "date": "2025-09-07",
+            "description": "Tênis: US Open - Fim"
+        },
+        {
+            "date": "2025-09-07",
+            "description": "Badminton: BWF World Senior Championship - Início"
+        },
+        {
+            "date": "2025-09-07",
+            "description": "MotoGP: GP da Catalunha - Fim"
+        },
+        {
+            "date": "2025-09-10",
+            "description": "Multiesportivo: Jogos da Juventude - Início"
+        },
+        {
+            "date": "2025-09-12",
+            "description": "MotoGP: GP de San Marino - Início"
+        },
+        {
+            "date": "2025-09-13",
+            "description": "Atletismo: Mundial de Atletismo - Início"
+        },
+        {
+            "date": "2025-09-14",
+            "description": "Ciclismo: Vuelta a España (Volta da Espanha) - Fim"
+        },
+        {
+            "date": "2025-09-14",
+            "description": "Badminton: BWF World Senior Championship - Fim"
+        },
+        {
+            "date": "2025-09-14",
+            "description": "MotoGP: GP de San Marino - Fim"
+        },
+        {
+            "date": "2025-09-18",
+            "description": "Fórmula 1: GP do Azerbaijão - Início"
+        },
+        {
+            "date": "2025-09-21",
+            "description": "Atletismo: Mundial de Atletismo - Fim"
+        },
+        {
+            "date": "2025-09-21",
+            "description": "Fórmula 1: GP do Azerbaijão - Fim"
+        },
+        {
+            "date": "2025-09-21",
+            "description": "Ciclismo: Mundial de Estrada da UCI - Início"
+        },
+        {
+            "date": "2025-09-25",
+            "description": "Multiesportivo: Jogos da Juventude - Fim"
+        },
+        {
+            "date": "2025-09-27",
+            "description": "Rugby: Copa do Mundo Feminina - Fim"
+        },
+        {
+            "date": "2025-09-27",
+            "description": "Futebol Australiano: Grande Final da AFL"
+        },
+        {
+            "date": "2025-09-28",
+            "description": "Beisebol: Fim da Temporada Regular da MLB"
+        },
+        {
+            "date": "2025-09-28",
+            "description": "Ciclismo: Mundial de Estrada da UCI - Fim"
+        },
+        {
+            "date": "2025-09-29",
+            "description": "Críquete: Copa do Mundo Feminina (ODI) - Início"
+        },
+        {
+            "date": "2025-10-03",
+            "description": "Fórmula 1: GP de Singapura - Início"
+        },
+        {
+            "date": "2025-10-03",
+            "description": "MotoGP: GP da Indonésia - Início"
+        },
+        {
+            "date": "2025-10-04",
+            "description": "Rugby: Bledisloe Cup"
+        },
+        {
+            "date": "2025-10-05",
+            "description": "Fórmula 1: GP de Singapura - Fim"
+        },
+        {
+            "date": "2025-10-05",
+            "description": "Rugby: Grande Final da NRL"
+        },
+        {
+            "date": "2025-10-05",
+            "description": "MotoGP: GP da Indonésia - Fim"
+        },
+        {
+            "date": "2025-10-09",
+            "description": "Atletismo: Campeonato Brasileiro Sub-16 Interclubes Loterias Caixa de Atletismo - Início"
+        },
+        {
+            "date": "2025-10-10",
+            "description": "Hóquei no Gelo: Início da Temporada 2025-26 da NHL"
+        },
+        {
+            "date": "2025-10-12",
+            "description": "Atletismo: Campeonato Brasileiro Sub-16 Interclubes Loterias Caixa de Atletismo - Fim"
+        },
+        {
+            "date": "2025-10-15",
+            "description": "Ciclismo de Pista: Campeonato Mundial da UCI - Início"
+        },
+        {
+            "date": "2025-10-16",
+            "description": "Fórmula 1: GP dos EUA (Austin) - Início"
+        },
+        {
+            "date": "2025-10-18",
+            "description": "Corridas de Cavalo: The Everest"
+        },
+        {
+            "date": "2025-10-19",
+            "description": "Fórmula 1: GP dos EUA (Austin) - Fim"
+        },
+        {
+            "date": "2025-10-19",
+            "description": "Ciclismo de Pista: Campeonato Mundial da UCI - Fim"
+        },
+        {
+            "date": "2025-10-23",
+            "description": "Fórmula 1: GP do México - Início"
+        },
+        {
+            "date": "2025-10-24",
+            "description": "Automobilismo: V8 Supercars Gold Coast 500 - Início"
+        },
+        {
+            "date": "2025-10-26",
+            "description": "Críquete: Copa do Mundo Feminina (ODI) - Fim"
+        },
+        {
+            "date": "2025-10-26",
+            "description": "Fórmula 1: GP do México - Fim"
+        },
+        {
+            "date": "2025-10-26",
+            "description": "Automobilismo: V8 Supercars Gold Coast 500 - Fim"
+        },
+        {
+            "date": "2025-10-26",
+            "description": "Futebol: Ballon d'Or"
+        },
+        {
+            "date": "2025-10-26",
+            "description": "Corrida: Maratona de Dublin"
+        },
+        {
+            "date": "2025-11-02",
+            "description": "Corrida: Maratona de Nova York"
+        },
+        {
+            "date": "2025-11-04",
+            "description": "Corridas de Cavalo: Melbourne Cup"
+        },
+        {
+            "date": "2025-11-07",
+            "description": "Fórmula 1: Grande Prêmio do Brasil de Fórmula 1 - Início"
+        },
+        {
+            "date": "2025-11-08",
+            "description": "Corridas de Cavalo: Stakes Day"
+        },
+        {
+            "date": "2025-11-09",
+            "description": "Fórmula 1: Grande Prêmio do Brasil de Fórmula 1 - Fim"
+        },
+        {
+            "date": "2025-11-09",
+            "description": "Tênis: ATP Finals - Início"
+        },
+        {
+            "date": "2025-11-14",
+            "description": "MotoGP: GP de Valência - Início"
+        },
+        {
+            "date": "2025-11-16",
+            "description": "Futebol: Copa do Brasil - Fim"
+        },
+        {
+            "date": "2025-11-16",
+            "description": "Futebol Canadense: Final da Grey Cup (CFL)"
+        },
+        {
+            "date": "2025-11-16",
+            "description": "Tênis: ATP Finals - Fim"
+        },
+        {
+            "date": "2025-11-16",
+            "description": "MotoGP: GP de Valência - Fim (Fim da Temporada)"
+        },
+        {
+            "date": "2025-11-20",
+            "description": "Fórmula 1: GP de Las Vegas - Início"
+        },
+        {
+            "date": "2025-11-22",
+            "description": "Futebol: Copa Sul-Americana - Fim"
+        },
+        {
+            "date": "2025-11-23",
+            "description": "Fórmula 1: GP de Las Vegas - Fim"
+        },
+        {
+            "date": "2025-11-26",
+            "description": "Handebol: Mundial Feminino - Início"
+        },
+        {
+            "date": "2025-11-28",
+            "description": "Fórmula 1: GP do Catar - Início"
+        },
+        {
+            "date": "2025-11-29",
+            "description": "Futebol: Final da Copa Libertadores da América"
+        },
+        {
+            "date": "2025-11-30",
+            "description": "Fórmula 1: GP do Catar - Fim"
+        },
+        {
+            "date": "2025-12-05",
+            "description": "Fórmula 1: GP de Abu Dhabi - Início"
+        },
+        {
+            "date": "2025-12-07",
+            "description": "Fórmula 1: Temporada 2025 - Fim (GP de Abu Dhabi)"
+        },
+        {
+            "date": "2025-12-14",
+            "description": "Handebol: Mundial Feminino - Fim"
+        },
+        {
+            "date": "2025-12-14",
+            "description": "Futebol: Final da Liga MX (Apertura)"
+        },
+        {
+            "date": "2025-12-21",
+            "description": "Futebol: Copa das Nações Africanas - Início"
+        },
+        {
+            "date": "2025-12-26",
+            "description": "Críquete: Boxing Day Test"
+        },
+        {
+            "date": "2025-12-26",
+            "description": "Vela: Sydney to Hobart Yacht Race - Início"
+        },
+        {
+            "date": "2025-12-31",
+            "description": "Vela: Sydney to Hobart Yacht Race - Fim"
+        },
+        {
+            "date": "2026-01-04",
+            "description": "Futebol Americano: Temporada NFL 2025 - Fim da Temporada Regular"
+        },
+        {
+            "date": "2026-01-18",
+            "description": "Futebol: Copa das Nações Africanas - Fim"
+        },
+        {
+            "date": "2026-02-06",
+            "description": "Multiesportivo: Jogos Olímpicos de Inverno (Milão-Cortina) - Início"
+        },
+        {
+            "date": "2026-02-08",
+            "description": "Críquete: Copa do Mundo T20 Masculina - Início"
+        },
+        {
+            "date": "2026-02-22",
+            "description": "Multiesportivo: Jogos Olímpicos de Inverno (Milão-Cortina) - Fim"
+        },
+        {
+            "date": "2026-03-08",
+            "description": "Críquete: Copa do Mundo T20 Masculina - Fim"
+        },
+        {
+            "date": "2026-03-20",
+            "description": "Atletismo: Mundial Indoor - Início"
+        },
+        {
+            "date": "2026-03-22",
+            "description": "Atletismo: Mundial Indoor - Fim"
+        },
+        {
+            "date": "2026-04-01", 
+            "description": "Atletismo: Mundial de Marcha Atlética por Equipes - Brasília, DF (Data Aproximada em Abril)"
+        },
+        {
+            "date": "2026-06-11",
+            "description": "Futebol: Copa do Mundo FIFA 2026 - Início"
+        },
+        {
+            "date": "2026-07-04",
+            "description": "Ciclismo: Tour de France - Início"
+        },
+        {
+            "date": "2026-07-19",
+            "description": "Futebol: Copa do Mundo FIFA 2026 - Fim"
+        },
+        {
+            "date": "2026-07-23",
+            "description": "Multiesportivo: Commonwealth Games - Início"
+        },
+        {
+            "date": "2026-07-26",
+            "description": "Ciclismo: Tour de France - Fim"
+        },
+        {
+            "date": "2026-08-02",
+            "description": "Multiesportivo: Commonwealth Games - Fim"
+        },
+        {
+            "date": "2026-08-14",
+            "description": "Hóquei sobre Grama: Copa do Mundo Masculina e Feminina - Início"
+        },
+        {
+            "date": "2026-08-30",
+            "description": "Hóquei sobre Grama: Copa do Mundo Masculina e Feminina - Fim"
+        },
+        {
+            "date": "2026-09-04",
+            "description": "Basquete: Copa do Mundo Feminina - Início"
+        },
+        {
+            "date": "2026-09-13",
+            "description": "Basquete: Copa do Mundo Feminina - Fim"
+        },
+        {
+            "date": "2026-09-19",
+            "description": "Multiesportivo: Jogos Asiáticos - Início"
+        },
+        {
+            "date": "2026-10-04",
+            "description": "Multiesportivo: Jogos Asiáticos - Fim"
+        },
+        {
+            "date": "2026-10-31",
+            "description": "Multiesportivo: Jogos Olímpicos da Juventude de Verão - Início"
+        },
+        {
+            "date": "2026-11-13",
+            "description": "Multiesportivo: Jogos Olímpicos da Juventude de Verão - Fim"
+        },
+        {
+            "date": "2025-04-19",
+            "description": "Futebol: Campeonato Brasileiro - Série B - Início"
+        },
+        {
+            "date": "2025-04-26",
+            "description": "Futebol: Campeonato Brasileiro - Série C - Início"
+        },
+        {
+            "date": "2025-05-03",
+            "description": "Futebol: Campeonato Brasileiro - Série D - Início"
+        },
+        {
+            "date": "2025-09-28",
+            "description": "Futebol: Campeonato Brasileiro - Série D - Fim"
+        },
+        {
+            "date": "2025-10-26",
+            "description": "Futebol: Campeonato Brasileiro - Série C - Fim"
+        },
+        {
+            "date": "2025-11-29",
+            "description": "Futebol: Campeonato Brasileiro - Série B - Fim"
+        },
+        {
+            "date": "2025-12-07",
+            "description": "Futebol: Campeonato Brasileiro - Série A - Fim"
+        }
+        
+    ]
+}

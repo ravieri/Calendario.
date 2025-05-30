@@ -1,0 +1,54 @@
+{
+  "promotions": {
+    "100X": [
+      {
+        "id": "100x_001",
+        "liga": "Campeonato Paulista A1",
+        "nomeDoMercado": "São Bernardo, Ponte Preta, Água Santa e Corinthians ganham seus jogos na rodada (12/02).",
+        "fechamentoDoMercado": "12/02/2025 19:30:00 BRT",
+        "dataOriginal": "2025-02-12"
+      },
+      {
+        "id": "100x_002",
+        "liga": "Champions League - Oitavas",
+        "nomeDoMercado": "Real Madrid, Bayern, PSG e Man City classificam (resultado no tempo normal).",
+        "fechamentoDoMercado": "18/02/2025 17:00:00 BRT",
+        "dataOriginal": "2025-02-18"
+      }
+    ],
+    "M12": [
+      {
+        "id": "m12_001",
+        "liga": "Libertadores - Fase de Grupos",
+        "nomeDoMercado": "Flamengo, Palmeiras e Atlético-MG vencem seus jogos em casa.",
+        "fechamentoDoMercado": "15/03/2025 21:00:00 BRT",
+        "dataOriginal": "2025-03-15"
+      },
+      {
+        "id": "m12_002",
+        "liga": "Copa do Nordeste - Quartas",
+        "nomeDoMercado": "Bahia e Sport avançam para as semifinais.",
+        "fechamentoDoMercado": "20/03/2025 20:00:00 BRT",
+        "dataOriginal": "2025-03-20"
+      }
+    ],
+    "SuperOdds": [
+      {
+        "id": "so_001",
+        "pais": "Brasil",
+        "liga": "Brasileirão Série A",
+        "oferta": "Corinthians vence o Santos por 2+ gols de diferença.",
+        "finalizacao": "10/02/2025 16:00:00 BRT",
+        "dataOriginal": "2025-02-10"
+      },
+      {
+        "id": "so_002",
+        "pais": "Inglaterra",
+        "liga": "Premier League",
+        "oferta": "Arsenal marca em ambos os tempos contra o Tottenham.",
+        "finalizacao": "22/02/2025 12:00:00 BRT",
+        "dataOriginal": "2025-02-22"
+      }
+    ]
+  }
+}

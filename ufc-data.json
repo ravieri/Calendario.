@@ -1,0 +1,156 @@
+{
+    "carouselData": [
+        {
+            "imgSrc": "UFC imagens/blanchfieldxbarber.png",
+            "alt": "UFC Fight Night",
+            "categoryTag": "UFC",
+            "title": "UFC Fight Night: Blanchfield vs. Barber",
+            "description": "Evento principal do UFC Fight Night no peso mosca!"
+        },
+        {
+            "imgSrc": "UFC imagens/gamrotxklein.png",
+            "alt": "UFC Fight Night",
+            "categoryTag": "UFC",
+            "title": "UFC Fight Night: Gamrot vs. Klein",
+            "description": "Evento co-principal do UFC Fight Night no peso leve!"
+        }
+    ],
+    "matchesData": {
+        "Junho": [
+            {
+                "weekLabel": "Semana 1 (01/06 - 07/06)",
+                "matches": [
+                    {
+                        "championship": "UFC Fight Night - Peso Mosca",
+                        "teamA": { "name": "Jailton Filho", "emblem": "Emblems/BRAZIL.png" },
+                        "teamB": { "name": "Allan Nascimento", "emblem": "Emblems/BRAZIL.png" },
+                        "score": "A definir",
+                        "date": "01/06/2025 19:00",
+                        "description": "Filho enfrenta Nascimento em uma luta no peso mosca.",
+                        "comments": [
+                            "Jailton Filho está com um gás incrível, aposto que vai dominar no chão!",
+                            "Nascimento tem uma defesa sólida, mas precisa tomar cuidado com as finalizações do Filho.",
+                            "Dois brasileiros no octógono, vai ser uma guerra!"
+                        ]
+                    },
+                    {
+                        "championship": "UFC Fight Night - Peso Médio",
+                        "teamA": { "name": "Zachary Reese", "emblem": "Emblems/USA.png" },
+                        "teamB": { "name": "Duško Todorović", "emblem": "Emblems/SERBIA.png" },
+                        "score": "A definir",
+                        "date": "01/06/2025 19:30",
+                        "description": "Reese enfrenta Todorović em uma batalha no peso médio.",
+                        "comments": [
+                            "Reese precisa trabalhar os golpes em pé, Todorović é muito agressivo!",
+                            "Acho que o Todorović leva vantagem na trocação, mas Reese pode surpreender com grappling.",
+                            "Essa luta tem tudo pra acabar no segundo round, vai ser intensa!"
+                        ]
+                    },
+                    {
+                        "championship": "UFC Fight Night - Peso Médio",
+                        "teamA": { "name": "Ramiz Brahimaj", "emblem": "Emblems/USA.png" },
+                        "teamB": { "name": "Billy Goff", "emblem": "Emblems/USA.png" },
+                        "score": "A definir",
+                        "date": "01/06/2025 20:00",
+                        "description": "Brahimaj enfrenta Goff em uma luta no peso médio.",
+                        "comments": [
+                            "Brahimaj tem um jiu-jitsu afiado, pode ser a chave pra vencer o Goff.",
+                            "Goff é um striker nato, vai tentar manter a luta em pé a todo custo.",
+                            "Quem controlar o ritmo leva essa luta, vai ser equilibrada!"
+                        ]
+                    },
+                    {
+                        "championship": "UFC Fight Night - Peso Meio-Pesado",
+                        "teamA": { "name": "Dustin Jacoby", "emblem": "Emblems/USA.png" },
+                        "teamB": { "name": "Bruno Lopes", "emblem": "Emblems/BRAZIL.png" },
+                        "score": "A definir",
+                        "date": "01/06/2025 20:30",
+                        "description": "Jacoby enfrenta Lopes em uma batalha no peso meio-pesado.",
+                        "comments": [
+                            "Jacoby tem experiência de sobra, mas o Lopes é uma zebra perigosa!",
+                            "Bruno Lopes precisa usar a potência dos chutes pra surpreender o Jacoby.",
+                            "Aposto que o Jacoby vai tentar levar pro chão pra evitar trocação.",
+                            "Que duelo de estilos, ansioso pra ver quem se adapta melhor!"
+                        ]
+                    },
+                    {
+                        "championship": "UFC Fight Night - Peso Leve",
+                        "teamA": { "name": "Mateusz Gamrot", "emblem": "Emblems/POLAND.png" },
+                        "teamB": { "name": "Ludovit Klein", "emblem": "Emblems/SLOVAKIA.png" },
+                        "score": "A definir",
+                        "date": "01/06/2025 21:00",
+                        "description": "Gamrot enfrenta Klein no evento co-principal do peso leve.",
+                        "comments": [
+                            "Gamrot é um wrestler de elite, vai ser difícil pro Klein escapar das quedas.",
+                            "Klein tem uma mão pesada, se conectar um golpe pode mudar tudo!",
+                            "Essa luta vai ser um teste de resistência, quem aguentar mais leva.",
+                            "Evento co-principal de alto nível, UFC entregando tudo!"
+                        ]
+                    },
+                    {
+                        "championship": "UFC Fight Night - Peso Mosca",
+                        "teamA": { "name": "Erin Blanchfield", "emblem": "Emblems/USA.png" },
+                        "teamB": { "name": "Maycee Barber", "emblem": "Emblems/USA.png" },
+                        "score": "A definir",
+                        "date": "01/06/2025 21:30",
+                        "description": "Blanchfield enfrenta Barber no evento principal do peso mosca.",
+                        "comments": [
+                            "Blanchfield é muito técnica, mas a Barber tem uma agressividade que pode complicar.",
+                            "Aposto na Blanchfield por finalização, ela é letal no chão!",
+                            "Barber precisa usar a força física pra dominar, vai ser um duelo incrível.",
+                            "Evento principal digno de PPV, não perco por nada!"
+                        ]
+                    }
+                ]
+            },
+            {
+                "weekLabel": "Semana 2 (08/06 - 14/06)",
+                "matches": []
+            },
+            {
+                "weekLabel": "Semana 3 (15/06 - 21/06)",
+                "matches": []
+            },
+            {
+                "weekLabel": "Semana 4 (22/06 - 28/06)",
+                "matches": []
+            }
+        ],
+        "Julho": [
+            {
+                "weekLabel": "Semana 1 (01/07 - 07/07)",
+                "matches": []
+            },
+            {
+                "weekLabel": "Semana 2 (08/07 - 14/07)",
+                "matches": []
+            },
+            {
+                "weekLabel": "Semana 3 (15/07 - 21/07)",
+                "matches": []
+            },
+            {
+                "weekLabel": "Semana 4 (22/07 - 28/07)",
+                "matches": []
+            }
+        ],
+        "Agosto": [
+            {
+                "weekLabel": "Semana 1 (01/08 - 07/08)",
+                "matches": []
+            },
+            {
+                "weekLabel": "Semana 2 (08/08 - 14/08)",
+                "matches": []
+            },
+            {
+                "weekLabel": "Semana 3 (15/08 - 21/08)",
+                "matches": []
+            },
+            {
+                "weekLabel": "Semana 4 (22/08 - 28/08)",
+                "matches": []
+            }
+        ]
+    }
+}
