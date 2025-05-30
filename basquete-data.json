@@ -27,13 +27,6 @@
             "categoryTag": "NBA Playoffs",
             "title": "Knicks vs. Pacers",
             "description": "Playoffs da NBA em destaque! Knicks e Pacers entregam um jogo épico nas finais do Leste!"
-        },
-        {
-            "imgSrc": "basquete img/timberwolvesxthunder1.webp",
-            "alt": "Jogo de Basquete",
-            "categoryTag": "NBA Playoffs",
-            "title": "Timberwolves vs. Thunder",
-            "description": "Playoffs da NBA pegam fogo! Timberwolves e Thunder continuam a rivalidade nas finais do Oeste!"
         }
     ],
     "matchesData": {
@@ -41,20 +34,6 @@
             {
                 "weekLabel": "Semana 1 (01/06 - 07/06)",
                 "matches": [
-                    {
-                        "championship": "NBA, Mata-mata, Western conference finals",
-                        "teamA": { "name": "Minnesota Timberwolves", "emblem": "Emblems/Basquete/Minnesota_Timberwolves.png" },
-                        "teamB": { "name": "Oklahoma City Thunder", "emblem": "Emblems/Basquete/Oklahoma_City_Thunder.png" },
-                        "score": "X",
-                        "date": "01/06/2025 • 21:30",
-                        "description": "Timberwolves e Thunder travam um duelo decisivo nas finais da conferência Oeste!",
-                        "comments": [
-                            "Timberwolves precisam melhorar a defesa no perímetro, o Thunder tá explorando isso!",
-                            "Shai Gilgeous-Alexander tá impossível, Thunder pode levar essa se mantiver o ritmo.",
-                            "Edwards precisa chamar o jogo, Timberwolves dependem dele pra virar.",
-                            "Que série incrível, tá muito equilibrada!"
-                        ]
-                    },
                     {
                         "championship": "NBA, Mata-mata, Eastern conference finals",
                         "teamA": { "name": "Indiana Pacers", "emblem": "Emblems/Basquete/Indiana_Pacers.png" },
